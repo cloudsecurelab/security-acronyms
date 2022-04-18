@@ -18,6 +18,7 @@ SSO - Single Sign-on
 ## Algorithms
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
 AES - Advanced Encryption Standard  
+SHA - Secure Haching Algorithm
 
 ## Security Industry Areas
 AMSI - Anti-Malware Scan Interface  
@@ -30,6 +31,10 @@ RASP - Runtime Application Self-Protection
 SAST - Static Application Security Testing  
 SCA - Source Composition Analysis  
 SCAP - Security Content Automation Protocol  
+SIEM - Security Incident & Event Management
+SOAR - Security Orchestration & Response
+VM - Vulnerability Management (also Virtual Machine outside of infosec)
+WAF - Web Application Firewall  
 
 ## Organizations, Frameworks & Standards
 APRA - Australian Prudential Regulation Authority  
@@ -42,7 +47,8 @@ MITRE - Not an acronym - “a name that was meaningless and without connotations
 NVD - National Vulnerability Database (USA)  
 NIST - National Institute of Standards and Technology (US)  
 OWASP - Open Web Application Security Project
-TARA - Threat Agent Risk Assessment (Methodology)
+TARA - Threat Agent Risk Assessment (Methodology)  
+SOC (1,2,3) - System and Organization Controls
 
 ## Misc
 APT - Advanced Persistent Threat  
@@ -58,6 +64,7 @@ C2 - Command & Control
 CVE - Common Vulnerabilities and Exposures  
 CVS - Common Vulnerability Score
 CVSS - Common Vulnerability Scoring System
+CSO - Chief Security Officer (role / persona)
 
 ## Threats
 DoS - Denial of Service  
@@ -98,8 +105,6 @@ CREST - CREST is not an acronym
 CSA - Cloud Security Alliance
 
 CSAF - Common Security Advisory Framework
-
-CSO - Chief Security Officer
 
 CSP - Content Security Policy
 
@@ -346,17 +351,9 @@ SET - Social Engineering Toolkit
 
 SFP - Saved Frame Pointer
 
-SHA - Secure Haching Algorithm
-
-SIEM - Security Incident & Event Management
-
 SOA - Statemenet of Applicability
 
-SOAR - Security Orchestration & Response
-
 SOC - Security Operations Center
-
-SOC (1,2,3) - System and Organization Controls
 
 SOX - Sarbanes-Oxley Act
 
@@ -406,11 +403,7 @@ UEBA - User and entity behavior analytics
 
 VAP - Very Attacked Person
 
-VM - Vulnerability Management (also Virtual Machine outside of infosec)
-
 VPN - Virtual Private Network
-
-WAF - Web Application Firewall
 
 WEP - Wired Equivalent Privacy
 
