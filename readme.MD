@@ -431,4 +431,4 @@ XXE - XML External Entity
 # Resources
 
 Original list extracted from [Ghostinashell Blog](https://blog.ghostinashell.com/acronyms/)  
-Enriched with terms learnt from [Sysdig](https://sysdig.com)
+Enriched with terms learned from [Sysdig](https://sysdig.com)
