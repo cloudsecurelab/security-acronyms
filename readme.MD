@@ -1,57 +1,59 @@
 # Cybersecurity acronyms and abbreviations
 
+Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers).
 
 ## Patterns & Protocols
-2FA - Two Factor Authentication; see also MFA
-ABAC - Attribute Based Access Control
-ACL - Access Control List
-CA - Certificate Authority
-CASB - Cloud Access Security Broker
-CORS - Cross Origin Resource Sharing
+2FA - Two Factor Authentication; see also MFA  
+ABAC - Attribute Based Access Control  
+ACL - Access Control List  
+CA - Certificate Authority  
+CASB - Cloud Access Security Broker  
+CORS - Cross Origin Resource Sharing  
+
 
 ## Algorithms
-3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)
-AES - Advanced Encryption Standard
+3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
+AES - Advanced Encryption Standard  
 
 ## Security Industry Areas
-AMSI - Anti-Malware Scan Interface
-AV - Anti-Virus
-CSPM - Cloud Security Posture Management
-CWP - Cloud Workload Protection
-CWPP - Cloud Workload Protection Platform
-DAST - Dynamic Application Security Testing
-SAST - Static Application Security Testing
-SCA - Source Composition Analysis
-SCAP - Security Content Automation Protocol
+AMSI - Anti-Malware Scan Interface  
+AV - Anti-Virus  
+CSPM - Cloud Security Posture Management  
+CWP - Cloud Workload Protection  
+CWPP - Cloud Workload Protection Platform  
+DAST - Dynamic Application Security Testing  
+SAST - Static Application Security Testing  
+SCA - Source Composition Analysis  
+SCAP - Security Content Automation Protocol  
 
 ## Organizations, Frameworks & Standards
-APRA - Australian Prudential Regulation Authority
-ASLR - Address Space Layout Randomisation
-ASVS - (OWASP) Application Security Verification Standard
-ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge
-CAPEC - Common Attack Pattern Enumeration and Classification
-HIPAA - Health Insurance Portability and Accountability Act
-NVD - National Vulnerability Database (USA)
+APRA - Australian Prudential Regulation Authority  
+ASLR - Address Space Layout Randomisation  
+ASVS - (OWASP) Application Security Verification Standard  
+ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
+CAPEC - Common Attack Pattern Enumeration and Classification  
+HIPAA - Health Insurance Portability and Accountability Act  
+NVD - National Vulnerability Database (USA)  
 
 ## Misc
-APT - Advanced Persistent Threat
-Authn - Authentication
-Authz - Authorization
-BAS - Breach & Attack Simulation
-BCP - Business Continuity Plan
-BEC - Business Email Compromise
-BGH - Big Game Hunting
-BIA - Business Impact Analysis
-BSIMM - Building Security In Maturity Model
-C2 - Command & Control
-DoS - Denial of Service
-DDoS - Distributed Denial of Service
-CVE - Common Vulnerabilities and Exposures
+APT - Advanced Persistent Threat  
+Authn - Authentication  
+Authz - Authorization  
+BAS - Breach & Attack Simulation  
+BCP - Business Continuity Plan  
+BEC - Business Email Compromise  
+BGH - Big Game Hunting  
+BIA - Business Impact Analysis  
+BSIMM - Building Security In Maturity Model  
+C2 - Command & Control  
+DoS - Denial of Service  
+DDoS - Distributed Denial of Service  
+CVE - Common Vulnerabilities and Exposures  
 
-## Pending to be classified (Help welcome)
-CAPP - Controlled Access Protection Profile
+## Pending to be classified (Help welcome)  
+CAPP - Controlled Access Protection Profile  
 
-CC - Common Criteria
+CC - Common Criteria  
 
 CCM - Cloud Controls Matrix
 
