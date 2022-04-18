@@ -9,7 +9,11 @@ ACL - Access Control List
 CA - Certificate Authority  
 CASB - Cloud Access Security Broker  
 CORS - Cross Origin Resource Sharing  
-
+DOM - Document Object Model
+FTPS - FTP-SSL or FTP Secure  
+SFTP - SSH File Transfer Protocol  
+SSL - Secure Sockets Layer  
+SSO - Single Sign-on  
 
 ## Algorithms
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
@@ -22,6 +26,7 @@ CSPM - Cloud Security Posture Management
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
 DAST - Dynamic Application Security Testing  
+RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
 SCA - Source Composition Analysis  
 SCAP - Security Content Automation Protocol  
@@ -34,6 +39,8 @@ ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge
 CAPEC - Common Attack Pattern Enumeration and Classification  
 HIPAA - Health Insurance Portability and Accountability Act  
 NVD - National Vulnerability Database (USA)  
+NIST - National Institute of Standards and Technology (US)  
+OWASP - Open Web Application Security Project
 
 ## Misc
 APT - Advanced Persistent Threat  
@@ -46,9 +53,14 @@ BGH - Big Game Hunting
 BIA - Business Impact Analysis  
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
+CVE - Common Vulnerabilities and Exposures  
+CVS - Common Vulnerability Score
+CVSS - Common Vulnerability Scoring System
+
+## Threats
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
-CVE - Common Vulnerabilities and Exposures  
+SQLi - SQL Injection  
 
 ## Pending to be classified (Help welcome)  
 CAPP - Controlled Access Protection Profile  
@@ -95,17 +107,9 @@ CTF - Capture the Flag
 
 CTI - Cyber Threat Intelligence
 
-
-
 CVRF - Common Vulnerability Reporting Framework (now CSAF)
 
-CVS - Common Vulnerability Score
-
-CVSS - Common Vulnerability Scoring System
-
 CWE - Common Weakness Enumeration
-
-
 
 DEP - Data Execution Prevention
 
@@ -124,10 +128,6 @@ DMARC - Domain-based Message Authentication, Reporting & Conformance
 DNSSEC - Domain Name System Security Extensions
 
 DoH - DNS over HTTPS
-
-DOM - Document Object Model
-
-
 
 DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability
 
@@ -153,7 +153,6 @@ FIM - File Integrity Monitoring
 
 FIRST - Forum of Incident Response and Security Teams
 
-FTPS - FTP-SSL or FTP Secure
 
 FPC - Full Packet Capture
 
@@ -247,7 +246,7 @@ NDR - Network Detection & Response
 
 NIDS - Network Intrustion Detection System
 
-NIST - National Institute of Standards and Technology (US)
+
 
 NGCI - Next Generation Cyber Infrastructure
 
@@ -279,8 +278,6 @@ OSINT - Open Source Intelligence
 
 OTP - One Time Pad ( sometimes One Time Password)
 
-OWASP - Open Web Application Security Project
-
 PaC - Policy as Code
 
 PASTA - Process for Attack Simulation & Threat Analysis
@@ -306,8 +303,6 @@ PTES - Penetration Testing Execution Standard
 PUP - Potentially Unwanted Program
 
 RaaS - Ransomware as a Service
-
-RASP - Runtime Application Self-Protection
 
 RAT - Remote Access Trojan
 
@@ -349,8 +344,6 @@ SET - Social Engineering Toolkit
 
 SFP - Saved Frame Pointer
 
-SFTP - SSH File Transfer Protocol
-
 SHA - Secure Haching Algorithm
 
 SIEM - Security Incident & Event Management
@@ -367,15 +360,9 @@ SOX - Sarbanes-Oxley Act
 
 SPF - Sender Policy Framework
 
-SQLi - SQL Injection
-
 SRI - Sub-resource Integrity
 
 SSH - Secure Shell
-
-SSL - Secure Sockets Layer
-
-SSO - Single Sign-on
 
 SSRF - Server Side Request Forgery
 
