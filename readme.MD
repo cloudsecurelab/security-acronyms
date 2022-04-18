@@ -1,53 +1,54 @@
 # Cybersecurity acronyms and abbreviations
 
+
+## Patterns & Protocols
 2FA - Two Factor Authentication; see also MFA
-
-3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)
-
 ABAC - Attribute Based Access Control
-
 ACL - Access Control List
+CA - Certificate Authority
+CASB - Cloud Access Security Broker
+CORS - Cross Origin Resource Sharing
 
+## Algorithms
+3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)
 AES - Advanced Encryption Standard
 
+## Security Industry Areas
 AMSI - Anti-Malware Scan Interface
-
-APRA - Australian Prudential Regulation Authority
-
-APT - Advanced Persistent Threat
-
-ASLR - Address Space Layout Randomisation
-
-ASVS - (OWASP) Application Security Verification Standard
-
-ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge
-
-Authn - Authentication
-
-Authz - Authorization
-
 AV - Anti-Virus
+CSPM - Cloud Security Posture Management
+CWP - Cloud Workload Protection
+CWPP - Cloud Workload Protection Platform
+DAST - Dynamic Application Security Testing
+SAST - Static Application Security Testing
+SCA - Source Composition Analysis
+SCAP - Security Content Automation Protocol
 
-BAS - Breach & Attack Simulation
-
-BCP - Business Continuity Plan
-
-BEC - Business Email Compromise
-
-BGH - Big Game Hunting
-
-BIA - Business Impact Analysis
-
-BSIMM - Building Security In Maturity Model
-
-C2 - Command & Control
-
-CA - Certificate Authority
-
-CASB - Cloud Access Security Broker
-
+## Organizations, Frameworks & Standards
+APRA - Australian Prudential Regulation Authority
+ASLR - Address Space Layout Randomisation
+ASVS - (OWASP) Application Security Verification Standard
+ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge
 CAPEC - Common Attack Pattern Enumeration and Classification
+HIPAA - Health Insurance Portability and Accountability Act
+NVD - National Vulnerability Database (USA)
 
+## Misc
+APT - Advanced Persistent Threat
+Authn - Authentication
+Authz - Authorization
+BAS - Breach & Attack Simulation
+BCP - Business Continuity Plan
+BEC - Business Email Compromise
+BGH - Big Game Hunting
+BIA - Business Impact Analysis
+BSIMM - Building Security In Maturity Model
+C2 - Command & Control
+DoS - Denial of Service
+DDoS - Distributed Denial of Service
+CVE - Common Vulnerabilities and Exposures
+
+## Pending to be classified (Help welcome)
 CAPP - Controlled Access Protection Profile
 
 CC - Common Criteria
@@ -76,8 +77,6 @@ CMM - Capability Maturity Model
 
 CoA - Course of Action
 
-CORS - Cross Origin Resource Sharing
-
 CREST - CREST is not an acronym
 
 CSA - Cloud Security Alliance
@@ -88,15 +87,13 @@ CSO - Chief Security Officer
 
 CSP - Content Security Policy
 
-CSPM - Cloud Security Posture Management
-
 CSRF - Cross Site Request Forgery
 
 CTF - Capture the Flag
 
 CTI - Cyber Threat Intelligence
 
-CVE - Common Vulnerabilities and Exposures
+
 
 CVRF - Common Vulnerability Reporting Framework (now CSAF)
 
@@ -106,11 +103,7 @@ CVSS - Common Vulnerability Scoring System
 
 CWE - Common Weakness Enumeration
 
-CWP - Cloud Workload Protection
 
-DAST - Dynamic Application Security Testing
-
-DDoS - Distributed Denial of Service
 
 DEP - Data Execution Prevention
 
@@ -132,7 +125,7 @@ DoH - DNS over HTTPS
 
 DOM - Document Object Model
 
-DoS - Denial of Service
+
 
 DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability
 
@@ -171,8 +164,6 @@ GPG - GnuPG
 GRC - Governance, Risk & Compliance
 
 HIDS - Host Intrusion Detection System (also NIDS for Network)
-
-HIPAA - Health Insurance Portability and Accountability Act
 
 HIPS - Host Intrusion Prevention System
 
@@ -266,8 +257,6 @@ NMS - Network Management System
 
 NTA - Network Traffic Analysis
 
-NVD - National Vulnerability Database
-
 NX - No-Execute
 
 OASIS - Organisation for the Advancement of Structured Information Standards
@@ -345,12 +334,6 @@ SAQ - Self-Assessment Questionnaire
 SARIF - Static Analysis Results Interchange Format
 
 SASE - Secure Access Service Edge
-
-SAST - Static Application Security Testing
-
-SCA - Source Composition Analysis
-
-SCAP - Security Content Automation Protocol
 
 SCIM - System for Cross-domain Identity Management
 
