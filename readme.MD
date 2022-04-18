@@ -38,9 +38,11 @@ ASVS - (OWASP) Application Security Verification Standard
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 HIPAA - Health Insurance Portability and Accountability Act  
+MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”
 NVD - National Vulnerability Database (USA)  
 NIST - National Institute of Standards and Technology (US)  
 OWASP - Open Web Application Security Project
+TARA - Threat Agent Risk Assessment (Methodology)
 
 ## Misc
 APT - Advanced Persistent Threat  
@@ -228,7 +230,7 @@ MFA - Multi Factor Authentication
 
 MITM - Man in the middle (also Person in the middle)
 
-MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”
+
 
 MSSP - Managed Security Services Provider
 
@@ -377,8 +379,6 @@ STIX - Structured Threat Information Expression
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege
 
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)
-
-TARA - Threat Agent Risk Assessment
 
 TAXII - Trusted Automated Exchange of Intelligence Information
 
