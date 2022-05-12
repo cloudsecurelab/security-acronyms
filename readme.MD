@@ -23,6 +23,7 @@ SHA - Secure Haching Algorithm
 ## Security Industry Areas
 AMSI - Anti-Malware Scan Interface  
 AV - Anti-Virus  
+CAASM - Cyber Asset Attack Surface Management (inventory management)
 CSPM - Cloud Security Posture Management  
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
