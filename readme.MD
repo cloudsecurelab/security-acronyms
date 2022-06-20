@@ -3,6 +3,7 @@
 Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers).
 
 ## Patterns, Protocols & Implementation Standards
+
 2FA - Two Factor Authentication; see also MFA  
 ABAC - Attribute Based Access Control  
 ACL - Access Control List  
@@ -13,6 +14,7 @@ DOM - Document Object Model
 FTPS - FTP-SSL or FTP Secure  
 IR - Incident Response
 JWT - JSON Web Token
+MFA - Multi Factor Authentication
 mTLS - Mutual Transport Layer Security
 SFTP - SSH File Transfer Protocol  
 SSL - Secure Sockets Layer  
@@ -20,11 +22,15 @@ SSO - Single Sign-on
 OAuth - Open Authorization
 
 ## Algorithms
+
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
 AES - Advanced Encryption Standard  
+MD5 - Message-digest Algorithm
+RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 SHA - Secure Haching Algorithm
 
 ## Security Approaches & Industry areas
+
 AMSI - Anti-Malware Scan Interface  
 AV - Anti-Virus  
 CAASM - Cyber Asset Attack Surface Management (inventory management)
@@ -46,6 +52,7 @@ VM - Vulnerability Management (also Virtual Machine outside of infosec)
 WAF - Web Application Firewall  
 
 ## Organizations, Frameworks & Security standards
+
 APRA - Australian Prudential Regulation Authority  
 ASLR - Address Space Layout Randomisation  
 ASVS - (OWASP) Application Security Verification Standard  
@@ -61,6 +68,7 @@ TARA - Threat Agent Risk Assessment (Methodology)
 SOC (1,2,3) - System and Organization Controls
 
 ## Misc
+
 APT - Advanced Persistent Threat  
 Authn - Authentication  
 Authz - Authorization  
@@ -78,11 +86,13 @@ CSO - Chief Security Officer (role / persona)
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
 
 ## Threats
+
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
 SQLi - SQL Injection  
 
 ## Pending to be classified (Help welcome)  
+
 CAPP - Controlled Access Protection Profile  
 CC - Common Criteria  
 CCM - Cloud Controls Matrix
@@ -153,31 +163,16 @@ ISC2 - International Information System Security Certification Consortium
 ISMS - Information Security Management System
 
 ISO - International Organization for Standardization
-
 ISS - Information System Security
-
 JIT - Just in Time (SAML)
 KCM - Kill Chain Model
 LANGSEC - Language Security
-
 LFI - Local File Inclusion
-
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)
-
-MD5 - Message-digest Algorithm
-
 MDFT - Mobile Device Forensic Tool
-
-MFA - Multi Factor Authentication
-
 MITM - Man in the middle (also Person in the middle)
-
-
-
 MSSP - Managed Security Services Provider
-
 MSTIC - Microsoft Threat Intelligence Center
-
 NAC - Network Access Control / also NACL (Network Access Control List)
 NDA - Non Disclosure Agreement
 NDB - Notifiable Data Breache(s)
@@ -194,7 +189,6 @@ ODoH - Oblivious DNS over HTTPS
 OIDC - OpenID Connect
 OPSec - Operational Security
 OSCAL - Open Security Controls Assessment Language
-
 OSCP - Offensive Security Certified Professional
 
 OSINT - Open Source Intelligence
@@ -230,21 +224,12 @@ RaaS - Ransomware as a Service
 RAT - Remote Access Trojan
 
 RBAC - Role Based Access Control
-
 RCE - Remote Code Execution
-
 RFC - Request For Comments
-
 ROP - Return-oriented programming
-
 RP - Return Pointer
-
-RSA - Rivest–Shamir–Adleman
-
 RTR - Rapid Threat Response
-
 SABSA - Sherwood Applied Business Security Architecture
-
 SAML - Security Assertion Markup Language
 
 SANS - SysAdmin, Audit, Network, and Security
