@@ -18,6 +18,7 @@ MFA - Multi Factor Authentication
 mTLS - Mutual Transport Layer Security  
 OAuth - Open Authorization  
 SFTP - SSH File Transfer Protocol  
+SSH - Secure Shell
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
 U2F - Universal Two Factor  
@@ -50,9 +51,11 @@ SCA - Source Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
+SOC - Security Operations Center  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
+XDR - eXtended Detection and Response  
 
 ## Organizations, Frameworks & Security standards
 
@@ -186,39 +189,22 @@ OIDC - OpenID Connect
 OPSec - Operational Security
 OSCAL - Open Security Controls Assessment Language
 OSCP - Offensive Security Certified Professional
-
 OSINT - Open Source Intelligence
-
 OTP - One Time Pad ( sometimes One Time Password)
-
 PaC - Policy as Code
-
 PASTA - Process for Attack Simulation & Threat Analysis
-
 PCD - Payment Card Data
-
 PCI DSS - Payment Card Industry Data Security Standard
-
 PCI SSC - Payment Card Industry Security Standards Council
-
 PIC - Position-independent Code
-
 PIE - Position-independent Executable
-
 PGP - Pretty Good Privacy. See also GPG
-
 PoC - Proof of Concept
-
 PFS - Perfect Forward Secrecy
-
 PTES - Penetration Testing Execution Standard
-
 PUP - Potentially Unwanted Program
-
 RaaS - Ransomware as a Service
-
 RAT - Remote Access Trojan
-
 RBAC - Role Based Access Control
 RCE - Remote Code Execution
 RFC - Request For Comments
@@ -227,54 +213,30 @@ RP - Return Pointer
 RTR - Rapid Threat Response
 SABSA - Sherwood Applied Business Security Architecture
 SAML - Security Assertion Markup Language
-
 SANS - SysAdmin, Audit, Network, and Security
-
 SAQ - Self-Assessment Questionnaire
-
 SARIF - Static Analysis Results Interchange Format
-
 SASE - Secure Access Service Edge
 SCIM - System for Cross-domain Identity Management
 SSDLC - Secure Software Development Lifecycle
 SECCOMP - Secure Computing
 SET - Social Engineering Toolkit
 SFP - Saved Frame Pointer
-
 SOA - Statemenet of Applicability
-
-SOC - Security Operations Center
-
 SOX - Sarbanes-Oxley Act
-
 SPF - Sender Policy Framework
-
 SRI - Sub-resource Integrity
-
-SSH - Secure Shell
-
 SSRF - Server Side Request Forgery
-
 SSS - Stack Smashing Protector
-
 SSVC - Stakeholder-Specific Vulnerability Categorization
-
 STIG - Security Technical Implementation Guide
-
 STIX - Structured Threat Information Expression
-
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege
-
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)
-
 TAXII - Trusted Automated Exchange of Intelligence Information
-
 TI - Threat Intelligence
-
 TIP - Threat Intelligence Platform
-
 TLP - Traffic Light Protocol
-
 TLS - Transport Layer Security
 TOGAF - The Open Group Architecture Framework
 TPM - Transport Platform Module
@@ -282,23 +244,13 @@ TPRM - Third Party Risk Management
 TTP - Tactics, Techniques, and Procedures
 UAC - User Access Control
 VAP - Very Attacked Person
-
 VPN - Virtual Private Network
-
 WEP - Wired Equivalent Privacy
-
 WPA - Wi-Fi Protected Access
-
 WPS - Wi-Fi Protected Setup
-
 XACML - eXtensible Access Control Markup Language
-
-XDR - eXtended Detection and Response
-
 XFS - Cross Frame Scripting
-
 XSS - Cross Site Scripting
-
 XXE - XML External Entity
 
 # Resources
