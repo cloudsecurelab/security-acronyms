@@ -10,45 +10,46 @@ ACL - Access Control List
 CA - Certificate Authority  
 CASB - Cloud Access Security Broker  
 CORS - Cross Origin Resource Sharing  
-DOM - Document Object Model
+DOM - Document Object Model  
 FTPS - FTP-SSL or FTP Secure  
-IR - Incident Response
-JWT - JSON Web Token
-MFA - Multi Factor Authentication
-mTLS - Mutual Transport Layer Security
+IR - Incident Response  
+JWT - JSON Web Token  
+MFA - Multi Factor Authentication  
+mTLS - Mutual Transport Layer Security  
 SFTP - SSH File Transfer Protocol  
 SSL - Secure Sockets Layer  
-SSO - Single Sign-on
-OAuth - Open Authorization
+SSO - Single Sign-on  
+OAuth - Open Authorization  
 
 ## Algorithms
 
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
 AES - Advanced Encryption Standard  
-MD5 - Message-digest Algorithm
-RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-SHA - Secure Haching Algorithm
+DES - Data Encryption Standard  
+MD5 - Message-digest Algorithm  
+RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
+SHA - Secure Haching Algorithm  
 
 ## Security Approaches & Industry areas
 
 AMSI - Anti-Malware Scan Interface  
 AV - Anti-Virus  
-CAASM - Cyber Asset Attack Surface Management (inventory management)
+CAASM - Cyber Asset Attack Surface Management (inventory management)  
 CSPM - Cloud Security Posture Management  
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
-DAST - Dynamic Application Security Testing
-DLP - Data Loss Prevention
-EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)
-ETDR - See EDR
-IAST - Interactive Application Security Testing
+DAST - Dynamic Application Security Testing  
+DLP - Data Loss Prevention  
+EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
+ETDR - See EDR  
+IAST - Interactive Application Security Testing  
 RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
 SCA - Source Composition Analysis  
 SCAP - Security Content Automation Protocol  
-SIEM - Security Incident & Event Management
-SOAR - Security Orchestration & Response
-VM - Vulnerability Management (also Virtual Machine outside of infosec)
+SIEM - Security Incident & Event Management  
+SOAR - Security Orchestration & Response  
+VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
 
 ## Organizations, Frameworks & Security standards
@@ -57,13 +58,13 @@ APRA - Australian Prudential Regulation Authority
 ASLR - Address Space Layout Randomisation  
 ASVS - (OWASP) Application Security Verification Standard  
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
-DSS - Data Security Standard (See PCI)
+DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 HIPAA - Health Insurance Portability and Accountability Act  
-MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”
+MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”  
 NVD - National Vulnerability Database (USA)  
 NIST - National Institute of Standards and Technology (US)  
-OWASP - Open Web Application Security Project
+OWASP - Open Web Application Security Project  
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
 
@@ -80,10 +81,10 @@ BIA - Business Impact Analysis
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
 CVE - Common Vulnerabilities and Exposures  
-CVS - Common Vulnerability Score
-CVSS - Common Vulnerability Scoring System
-CSO - Chief Security Officer (role / persona)
-SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
+CVS - Common Vulnerability Score  
+CVSS - Common Vulnerability Scoring System  
+CSO - Chief Security Officer (role / persona)  
+SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)  
 
 ## Threats
 
@@ -95,42 +96,38 @@ SQLi - SQL Injection
 
 CAPP - Controlled Access Protection Profile  
 CC - Common Criteria  
-CCM - Cloud Controls Matrix
-CCSP - Certified Cloud Security Professional (ISC2)
-CDR - Content Disarm & Reconstruction
-CERT - Computer Emergency Response Team
-CIA - Confidentiality; Integrity; Availability
-CIS - Center for Internet Security
-CISA - Cybersecurity and Infrastructure Security Agency
-CISO - Chief Information Security Officer
-CISSP - Certified Information Systems Security Professional (ISC2)
-CMF - Collection Management Framework
-CMM - Capability Maturity Model
-CoA - Course of Action
-CREST - CREST is not an acronym
-CSA - Cloud Security Alliance
-CSAF - Common Security Advisory Framework
-CSP - Content Security Policy
-CSRF - Cross Site Request Forgery
-CTF - Capture the Flag
-CTI - Cyber Threat Intelligence
-CVRF - Common Vulnerability Reporting Framework (now CSAF)
-CWE - Common Weakness Enumeration
-DEP - Data Execution Prevention
-DES - Data Encryption Standard
-DFIR - Digital Forensics and Incident Response
-DKIM - DomainKeys Identified Mail
-DLS - Dedicated Leak Site
-DMARC - Domain-based Message Authentication, Reporting & Conformance
-DNSSEC - Domain Name System Security Extensions
-DoH - DNS over HTTPS
-DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability
-
+CCM - Cloud Controls Matrix  
+CCSP - Certified Cloud Security Professional (ISC2)  
+CDR - Content Disarm & Reconstruction  
+CERT - Computer Emergency Response Team  
+CIA - Confidentiality; Integrity; Availability  
+CIS - Center for Internet Security    
+CISA - Cybersecurity and Infrastructure Security Agency  
+CISO - Chief Information Security Officer  
+CISSP - Certified Information Systems Security Professional (ISC2)  
+CMF - Collection Management Framework  
+CMM - Capability Maturity Model  
+CoA - Course of Action  
+CREST - CREST is not an acronym  
+CSA - Cloud Security Alliance  
+CSAF - Common Security Advisory Framework  
+CSP - Content Security Policy  
+CSRF - Cross Site Request Forgery  
+CTF - Capture the Flag  
+CTI - Cyber Threat Intelligence  
+CVRF - Common Vulnerability Reporting Framework (now CSAF)  
+CWE - Common Weakness Enumeration  
+DEP - Data Execution Prevention  
+DFIR - Digital Forensics and Incident Response  
+DKIM - DomainKeys Identified Mail  
+DLS - Dedicated Leak Site  
+DMARC - Domain-based Message Authentication, Reporting & Conformance  
+DNSSEC - Domain Name System Security Extensions  
+DoH - DNS over HTTPS  
+DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability  
 EASM - Externam Attack Surface Management
 EICAR - European Institute for Computer Antivirus Research
-
 EPP - Endpoint Protection Platform
-
 EPSS - Exploit Prediction Scoring System
 FAIR - Factor Analysis of Information Risk
 FiDO - Fast IDentity Online
@@ -157,11 +154,8 @@ IPS - Intrusion Protection System
 IPSec - Internet Protocol Security
 IRM - Integrated Risk Management
 IRP - Incident Response Playbook
-
 ISC2 - International Information System Security Certification Consortium
-
 ISMS - Information Security Management System
-
 ISO - International Organization for Standardization
 ISS - Information System Security
 JIT - Just in Time (SAML)
