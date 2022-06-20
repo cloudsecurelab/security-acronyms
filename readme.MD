@@ -130,32 +130,32 @@ DMARC - Domain-based Message Authentication, Reporting & Conformance
 DNSSEC - Domain Name System Security Extensions  
 DoH - DNS over HTTPS  
 DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability  
-EASM - Externam Attack Surface Management
-EICAR - European Institute for Computer Antivirus Research
-EPP - Endpoint Protection Platform
-EPSS - Exploit Prediction Scoring System
-FAIR - Factor Analysis of Information Risk
-FiDO - Fast IDentity Online
-FIM - File Integrity Monitoring
-FIRST - Forum of Incident Response and Security Teams
-FPC - Full Packet Capture
-GCM - Galois/Counter Mode
-GDPR - General Data Protection Regulation
-GPG - GnuPG
-GRC - Governance, Risk & Compliance
-HIDS - Host Intrusion Detection System (also NIDS for Network)
-HIPS - Host Intrusion Prevention System
-HSM - Hardware Security Module
-HSTS - HTTP Strict Transfer Protocol
-IDAM - Identity & Access Management
-IDOR - Insecure Direct Object Reference
-IdP - Identity Provider
-IDS - Intrusion Detection System
-IETF - Internet Engineering Task Force
-IOA - Indicators of Attack
-IOC - Indicators of Compromise
-IPE - Intelligence Preperation of the Environment
-IPS - Intrusion Protection System
+EASM - Externam Attack Surface Management  
+EICAR - European Institute for Computer Antivirus Research  
+EPP - Endpoint Protection Platform  
+EPSS - Exploit Prediction Scoring System  
+FAIR - Factor Analysis of Information Risk  
+FiDO - Fast IDentity Online  
+FIM - File Integrity Monitoring  
+FIRST - Forum of Incident Response and Security Teams  
+FPC - Full Packet Capture  
+GCM - Galois/Counter Mode  
+GDPR - General Data Protection Regulation  
+GPG - GnuPG  
+GRC - Governance, Risk & Compliance  
+HIDS - Host Intrusion Detection System (also NIDS for Network)  
+HIPS - Host Intrusion Prevention System  
+HSM - Hardware Security Module  
+HSTS - HTTP Strict Transfer Protocol  
+IDAM - Identity & Access Management  
+IDOR - Insecure Direct Object Reference  
+IdP - Identity Provider  
+IDS - Intrusion Detection System  
+IETF - Internet Engineering Task Force  
+IOA - Indicators of Attack  
+IOC - Indicators of Compromise  
+IPE - Intelligence Preperation of the Environment  
+IPS - Intrusion Protection System  
 IPSec - Internet Protocol Security
 IRM - Integrated Risk Management
 IRP - Incident Response Playbook
@@ -167,61 +167,61 @@ JIT - Just in Time (SAML)
 KCM - Kill Chain Model
 LANGSEC - Language Security
 LFI - Local File Inclusion
-LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)
-MDFT - Mobile Device Forensic Tool
-MITM - Man in the middle (also Person in the middle)
-MSSP - Managed Security Services Provider
-MSTIC - Microsoft Threat Intelligence Center
-NAC - Network Access Control / also NACL (Network Access Control List)
-NDA - Non Disclosure Agreement
-NDB - Notifiable Data Breache(s)
-NDR - Network Detection & Response
-NIDS - Network Intrustion Detection System
-NGCI - Next Generation Cyber Infrastructure
-NGES - Next Generation Endpoint Security
-NGFW - Next Generation Firewall
-NMS - Network Management System
-NTA - Network Traffic Analysis
-NX - No-Execute
-OASIS - Organisation for the Advancement of Structured Information Standards
-ODoH - Oblivious DNS over HTTPS
-OIDC - OpenID Connect
-OPSec - Operational Security
-OSCAL - Open Security Controls Assessment Language
-OSCP - Offensive Security Certified Professional
-OSINT - Open Source Intelligence
-OTP - One Time Pad ( sometimes One Time Password)
-PaC - Policy as Code
-PASTA - Process for Attack Simulation & Threat Analysis
-PCD - Payment Card Data
-PCI DSS - Payment Card Industry Data Security Standard
-PCI SSC - Payment Card Industry Security Standards Council
-PIC - Position-independent Code
-PIE - Position-independent Executable
-PGP - Pretty Good Privacy. See also GPG
-PoC - Proof of Concept
-PFS - Perfect Forward Secrecy
-PTES - Penetration Testing Execution Standard
-PUP - Potentially Unwanted Program
-RaaS - Ransomware as a Service
-RAT - Remote Access Trojan
-RBAC - Role Based Access Control
-RCE - Remote Code Execution
-RFC - Request For Comments
-ROP - Return-oriented programming
-RP - Return Pointer
-RTR - Rapid Threat Response
-SABSA - Sherwood Applied Business Security Architecture
-SAML - Security Assertion Markup Language
-SANS - SysAdmin, Audit, Network, and Security
-SAQ - Self-Assessment Questionnaire
-SARIF - Static Analysis Results Interchange Format
-SASE - Secure Access Service Edge
-SCIM - System for Cross-domain Identity Management
+LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
+MDFT - Mobile Device Forensic Tool  
+MITM - Man in the middle (also Person in the middle)  
+MSSP - Managed Security Services Provider  
+MSTIC - Microsoft Threat Intelligence Center  
+NAC - Network Access Control / also NACL (Network Access Control List)  
+NDA - Non Disclosure Agreement  
+NDB - Notifiable Data Breache(s)  
+NDR - Network Detection & Response  
+NIDS - Network Intrustion Detection System  
+NGCI - Next Generation Cyber Infrastructure  
+NGES - Next Generation Endpoint Security  
+NGFW - Next Generation Firewall  
+NMS - Network Management System  
+NTA - Network Traffic Analysis  
+NX - No-Execute  
+OASIS - Organisation for the Advancement of Structured Information Standards  
+ODoH - Oblivious DNS over HTTPS  
+OIDC - OpenID Connect  
+OPSec - Operational Security  
+OSCAL - Open Security Controls Assessment Language  
+OSCP - Offensive Security Certified Professional  
+OSINT - Open Source Intelligence  
+OTP - One Time Pad ( sometimes One Time Password)  
+PaC - Policy as Code  
+PASTA - Process for Attack Simulation & Threat Analysis  
+PCD - Payment Card Data  
+PCI DSS - Payment Card Industry Data Security Standard  
+PCI SSC - Payment Card Industry Security Standards Council  
+PIC - Position-independent Code  
+PIE - Position-independent Executable  
+PGP - Pretty Good Privacy. See also GPG  
+PoC - Proof of Concept  
+PFS - Perfect Forward Secrecy  
+PTES - Penetration Testing Execution Standard  
+PUP - Potentially Unwanted Program  
+RaaS - Ransomware as a Service  
+RAT - Remote Access Trojan  
+RBAC - Role Based Access Control  
+RCE - Remote Code Execution  
+RFC - Request For Comments  
+ROP - Return-oriented programming  
+RP - Return Pointer  
+RTR - Rapid Threat Response  
+SABSA - Sherwood Applied Business Security Architecture  
+SAML - Security Assertion Markup Language  
+SANS - SysAdmin, Audit, Network, and Security  
+SAQ - Self-Assessment Questionnaire  
+SARIF - Static Analysis Results Interchange Format  
+SASE - Secure Access Service Edge  
+SCIM - System for Cross-domain Identity Management  
 SSDLC - Secure Software Development Lifecycle
 SECCOMP - Secure Computing
 SET - Social Engineering Toolkit
-SFP - Saved Frame Pointer
+SFP - Saved Frame Pointer  
 SOA - Statemenet of Applicability
 SOX - Sarbanes-Oxley Act
 SPF - Sender Policy Framework
