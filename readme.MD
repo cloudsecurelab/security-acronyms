@@ -156,17 +156,17 @@ IOA - Indicators of Attack
 IOC - Indicators of Compromise  
 IPE - Intelligence Preperation of the Environment  
 IPS - Intrusion Protection System  
-IPSec - Internet Protocol Security
-IRM - Integrated Risk Management
-IRP - Incident Response Playbook
-ISC2 - International Information System Security Certification Consortium
-ISMS - Information Security Management System
-ISO - International Organization for Standardization
-ISS - Information System Security
-JIT - Just in Time (SAML)
-KCM - Kill Chain Model
-LANGSEC - Language Security
-LFI - Local File Inclusion
+IPSec - Internet Protocol Security  
+IRM - Integrated Risk Management  
+IRP - Incident Response Playbook  
+ISC2 - International Information System Security Certification Consortium  
+ISMS - Information Security Management System  
+ISO - International Organization for Standardization  
+ISS - Information System Security  
+JIT - Just in Time (SAML)  
+KCM - Kill Chain Model  
+LANGSEC - Language Security  
+LFI - Local File Inclusion  
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
 MDFT - Mobile Device Forensic Tool  
 MITM - Man in the middle (also Person in the middle)  
@@ -218,37 +218,37 @@ SAQ - Self-Assessment Questionnaire
 SARIF - Static Analysis Results Interchange Format  
 SASE - Secure Access Service Edge  
 SCIM - System for Cross-domain Identity Management  
-SSDLC - Secure Software Development Lifecycle
-SECCOMP - Secure Computing
-SET - Social Engineering Toolkit
+SSDLC - Secure Software Development Lifecycle  
+SECCOMP - Secure Computing  
+SET - Social Engineering Toolkit  
 SFP - Saved Frame Pointer  
-SOA - Statemenet of Applicability
-SOX - Sarbanes-Oxley Act
-SPF - Sender Policy Framework
-SRI - Sub-resource Integrity
-SSRF - Server Side Request Forgery
-SSS - Stack Smashing Protector
-SSVC - Stakeholder-Specific Vulnerability Categorization
-STIG - Security Technical Implementation Guide
-STIX - Structured Threat Information Expression
-STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege
-SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)
-TAXII - Trusted Automated Exchange of Intelligence Information
-TI - Threat Intelligence
-TIP - Threat Intelligence Platform
-TLP - Traffic Light Protocol
-TLS - Transport Layer Security
-TOGAF - The Open Group Architecture Framework
-TPM - Transport Platform Module
-TPRM - Third Party Risk Management
-TTP - Tactics, Techniques, and Procedures
-UAC - User Access Control
-VAP - Very Attacked Person
-VPN - Virtual Private Network
-WEP - Wired Equivalent Privacy
-WPA - Wi-Fi Protected Access
-WPS - Wi-Fi Protected Setup
-XACML - eXtensible Access Control Markup Language
+SOA - Statemenet of Applicability  
+SOX - Sarbanes-Oxley Act  
+SPF - Sender Policy Framework  
+SRI - Sub-resource Integrity  
+SSRF - Server Side Request Forgery  
+SSS - Stack Smashing Protector  
+SSVC - Stakeholder-Specific Vulnerability Categorization  
+STIG - Security Technical Implementation Guide  
+STIX - Structured Threat Information Expression  
+STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege  
+SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
+TAXII - Trusted Automated Exchange of Intelligence Information  
+TI - Threat Intelligence  
+TIP - Threat Intelligence Platform  
+TLP - Traffic Light Protocol  
+TLS - Transport Layer Security  
+TOGAF - The Open Group Architecture Framework  
+TPM - Transport Platform Module  
+TPRM - Third Party Risk Management  
+TTP - Tactics, Techniques, and Procedures  
+UAC - User Access Control  
+VAP - Very Attacked Person  
+VPN - Virtual Private Network  
+WEP - Wired Equivalent Privacy  
+WPA - Wi-Fi Protected Access  
+WPS - Wi-Fi Protected Setup  
+XACML - eXtensible Access Control Markup Language  
 XFS - Cross Frame Scripting
 XSS - Cross Site Scripting
 XXE - XML External Entity
