@@ -16,10 +16,11 @@ IR - Incident Response
 JWT - JSON Web Token  
 MFA - Multi Factor Authentication  
 mTLS - Mutual Transport Layer Security  
+OAuth - Open Authorization  
 SFTP - SSH File Transfer Protocol  
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
-OAuth - Open Authorization  
+U2F - Universal Two Factor  
 
 ## Algorithms
 
@@ -49,6 +50,7 @@ SCA - Source Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
+UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
 
@@ -274,21 +276,11 @@ TIP - Threat Intelligence Platform
 TLP - Traffic Light Protocol
 
 TLS - Transport Layer Security
-
 TOGAF - The Open Group Architecture Framework
-
 TPM - Transport Platform Module
-
 TPRM - Third Party Risk Management
-
 TTP - Tactics, Techniques, and Procedures
-
-U2F - Universal Two Factor
-
 UAC - User Access Control
-
-UEBA - User and entity behavior analytics
-
 VAP - Very Attacked Person
 
 VPN - Virtual Private Network
@@ -313,3 +305,4 @@ XXE - XML External Entity
 
 Original list extracted from [Ghostinashell Blog](https://blog.ghostinashell.com/acronyms/)  
 Enriched with terms learned from [Sysdig](https://sysdig.com)
+Added some terms from [SecureWorldExpo](https://info.secureworldexpo.com/hubfs/PDF_collateral/Acronyms_cybersecurity_SecureWorld_090419.pdf)
