@@ -1,6 +1,6 @@
 # Cybersecurity acronyms and abbreviations
 
-Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers).
+Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers). All the terms are classified and explained to make sure that they are understandable.
 
 ## Patterns, Protocols & Implementation Standards
 
