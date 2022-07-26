@@ -18,9 +18,12 @@ MFA - Multi Factor Authentication
 mTLS - Mutual Transport Layer Security  
 OAuth - Open Authorization  
 SFTP - SSH File Transfer Protocol  
+SAML - Security Assertion Markup Language  
 SSH - Secure Shell
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
+TLP - Traffic Light Protocol  
+TLS - Transport Layer Security  
 U2F - Universal Two Factor  
 
 ## Algorithms
@@ -213,7 +216,6 @@ ROP - Return-oriented programming
 RP - Return Pointer  
 RTR - Rapid Threat Response  
 SABSA - Sherwood Applied Business Security Architecture  
-SAML - Security Assertion Markup Language  
 SANS - SysAdmin, Audit, Network, and Security  
 SAQ - Self-Assessment Questionnaire  
 SARIF - Static Analysis Results Interchange Format  
@@ -237,8 +239,6 @@ SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)
 TAXII - Trusted Automated Exchange of Intelligence Information  
 TI - Threat Intelligence  
 TIP - Threat Intelligence Platform  
-TLP - Traffic Light Protocol  
-TLS - Transport Layer Security  
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
