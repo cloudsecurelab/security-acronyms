@@ -32,7 +32,7 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
-## Security Approaches & Industry areas
+## Security Industry Approaches
 
 AMSI - Anti-Malware Scan Interface  
 AV - Anti-Virus  
@@ -57,7 +57,7 @@ VM - Vulnerability Management (also Virtual Machine outside of infosec)
 WAF - Web Application Firewall  
 XDR - eXtended Detection and Response  
 
-## Organizations, Frameworks & Security standards
+## Security & Compliance organizations, frameworks & standards
 
 APRA - Australian Prudential Regulation Authority  
 ASLR - Address Space Layout Randomisation  
@@ -70,6 +70,8 @@ MITRE - Not an acronym - “a name that was meaningless and without connotations
 NVD - National Vulnerability Database (USA)  
 NIST - National Institute of Standards and Technology (US)  
 OWASP - Open Web Application Security Project  
+PCI DSS - Payment Card Industry Data Security Standard  
+PCI SSC - Payment Card Industry Security Standards Council  
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
 
@@ -90,6 +92,7 @@ CVS - Common Vulnerability Score
 CVSS - Common Vulnerability Scoring System  
 CSO - Chief Security Officer (role / persona)  
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)  
+TTP - Tactics, Techniques, and Procedures  
 
 ## Threats
 
@@ -194,8 +197,6 @@ OTP - One Time Pad ( sometimes One Time Password)
 PaC - Policy as Code  
 PASTA - Process for Attack Simulation & Threat Analysis  
 PCD - Payment Card Data  
-PCI DSS - Payment Card Industry Data Security Standard  
-PCI SSC - Payment Card Industry Security Standards Council  
 PIC - Position-independent Code  
 PIE - Position-independent Executable  
 PGP - Pretty Good Privacy. See also GPG  
@@ -241,7 +242,6 @@ TLS - Transport Layer Security
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
-TTP - Tactics, Techniques, and Procedures  
 UAC - User Access Control  
 VAP - Very Attacked Person  
 VPN - Virtual Private Network  
