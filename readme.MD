@@ -16,7 +16,9 @@ IR - Incident Response
 JWT - JSON Web Token  
 MFA - Multi Factor Authentication  
 mTLS - Mutual Transport Layer Security  
+OASIS - Organisation for the Advancement of Structured Information Standards  
 OAuth - Open Authorization  
+PaC - Policy as Code  
 SFTP - SSH File Transfer Protocol  
 SAML - Security Assertion Markup Language  
 SSH - Secure Shell
@@ -96,12 +98,14 @@ CVSS - Common Vulnerability Scoring System
 CSO - Chief Security Officer (role / persona)  
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)  
 TTP - Tactics, Techniques, and Procedures  
+VAP - Very Attacked Person  
 
 ## Threats
 
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
 SQLi - SQL Injection  
+XSS - Cross Site Scripting
 
 ## Pending to be classified (Help welcome)  
 
@@ -189,7 +193,6 @@ NGFW - Next Generation Firewall
 NMS - Network Management System  
 NTA - Network Traffic Analysis  
 NX - No-Execute  
-OASIS - Organisation for the Advancement of Structured Information Standards  
 ODoH - Oblivious DNS over HTTPS  
 OIDC - OpenID Connect  
 OPSec - Operational Security  
@@ -197,7 +200,6 @@ OSCAL - Open Security Controls Assessment Language
 OSCP - Offensive Security Certified Professional  
 OSINT - Open Source Intelligence  
 OTP - One Time Pad ( sometimes One Time Password)  
-PaC - Policy as Code  
 PASTA - Process for Attack Simulation & Threat Analysis  
 PCD - Payment Card Data  
 PIC - Position-independent Code  
@@ -243,14 +245,12 @@ TOGAF - The Open Group Architecture Framework
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
 UAC - User Access Control  
-VAP - Very Attacked Person  
 VPN - Virtual Private Network  
 WEP - Wired Equivalent Privacy  
 WPA - Wi-Fi Protected Access  
 WPS - Wi-Fi Protected Setup  
 XACML - eXtensible Access Control Markup Language  
 XFS - Cross Frame Scripting
-XSS - Cross Site Scripting
 XXE - XML External Entity
 
 # Resources
