@@ -50,6 +50,7 @@ DLP - Data Loss Prevention
 EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
 ETDR - See EDR  
 IAST - Interactive Application Security Testing  
+MSSP - Managed Security Services Provider  
 RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
 SCA - Source Composition Analysis  
@@ -180,7 +181,6 @@ LFI - Local File Inclusion
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
 MDFT - Mobile Device Forensic Tool  
 MITM - Man in the middle (also Person in the middle)  
-MSSP - Managed Security Services Provider  
 MSTIC - Microsoft Threat Intelligence Center  
 NAC - Network Access Control / also NACL (Network Access Control List)  
 NDA - Non Disclosure Agreement  
