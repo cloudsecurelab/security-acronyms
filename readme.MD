@@ -27,6 +27,7 @@ SSO - Single Sign-on
 TLP - Traffic Light Protocol  
 TLS - Transport Layer Security  
 U2F - Universal Two Factor  
+WPA - Wi-Fi Protected Access  
 
 ## Algorithms
 
@@ -247,7 +248,6 @@ TPRM - Third Party Risk Management
 UAC - User Access Control  
 VPN - Virtual Private Network  
 WEP - Wired Equivalent Privacy  
-WPA - Wi-Fi Protected Access  
 WPS - Wi-Fi Protected Setup  
 XACML - eXtensible Access Control Markup Language  
 XFS - Cross Frame Scripting
