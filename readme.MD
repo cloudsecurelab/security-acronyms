@@ -98,9 +98,11 @@ CVE - Common Vulnerabilities and Exposures
 CVS - Common Vulnerability Score  
 CVSS - Common Vulnerability Scoring System  
 CSO - Chief Security Officer (role / persona)  
-SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)  
+SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
+RBAC - Role Based Access Control    
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
+VPN - Virtual Private Network  
 
 ## Threats
 
@@ -212,7 +214,6 @@ PTES - Penetration Testing Execution Standard
 PUP - Potentially Unwanted Program  
 RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
-RBAC - Role Based Access Control  
 RCE - Remote Code Execution  
 RFC - Request For Comments  
 ROP - Return-oriented programming  
@@ -246,7 +247,6 @@ TOGAF - The Open Group Architecture Framework
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
 UAC - User Access Control  
-VPN - Virtual Private Network  
 WEP - Wired Equivalent Privacy  
 WPS - Wi-Fi Protected Setup  
 XACML - eXtensible Access Control Markup Language  
