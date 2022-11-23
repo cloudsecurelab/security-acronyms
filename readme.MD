@@ -72,6 +72,7 @@ ASVS - (OWASP) Application Security Verification Standard
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
+GDPR - General Data Protection Regulation (Europe)
 HIPAA - Health Insurance Portability and Accountability Act  
 MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”  
 NVD - National Vulnerability Database (USA)  
@@ -154,7 +155,6 @@ FIM - File Integrity Monitoring
 FIRST - Forum of Incident Response and Security Teams  
 FPC - Full Packet Capture  
 GCM - Galois/Counter Mode  
-GDPR - General Data Protection Regulation  
 GPG - GnuPG  
 GRC - Governance, Risk & Compliance  
 HIDS - Host Intrusion Detection System (also NIDS for Network)  
