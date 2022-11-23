@@ -27,7 +27,9 @@ SSO - Single Sign-on
 TLP - Traffic Light Protocol  
 TLS - Transport Layer Security  
 U2F - Universal Two Factor  
-WPA - Wi-Fi Protected Access  
+WEP - Wired Equivalent Privacy (Protocol)
+WPA - Wi-Fi Protected Access (Protocol)
+WPS - Wi-Fi Protected Setup (Standard)
 
 ## Algorithms
 
@@ -246,9 +248,7 @@ TIP - Threat Intelligence Platform
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
-UAC - User Access Control  
-WEP - Wired Equivalent Privacy  
-WPS - Wi-Fi Protected Setup  
+UAC - User Access Control   
 XACML - eXtensible Access Control Markup Language  
 XFS - Cross Frame Scripting
 XXE - XML External Entity
