@@ -85,10 +85,6 @@ PCI SSC - Payment Card Industry Security Standards Council
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
 
-## Security Processess
-
-A&A - Assessment and Authorization
-
 ## Misc
 
 APT - Advanced Persistent Threat  
@@ -110,6 +106,10 @@ RBAC - Role Based Access Control
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
 VPN - Virtual Private Network  
+
+## Security Processes
+
+A&A - Assessment and Authorization
 
 ## Threats
 
