@@ -85,6 +85,10 @@ PCI SSC - Payment Card Industry Security Standards Council
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
 
+## Security Processess
+
+A&A - Assessment and Authorization
+
 ## Misc
 
 APT - Advanced Persistent Threat  
