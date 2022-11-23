@@ -72,6 +72,7 @@ APRA - Australian Prudential Regulation Authority
 ASLR - Address Space Layout Randomisation  
 ASVS - (OWASP) Application Security Verification Standard  
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
+BGDPL - Brazilian General Data Protection Law (Brazil)
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 GDPR - General Data Protection Regulation (Europe)
@@ -82,6 +83,7 @@ NIST - National Institute of Standards and Technology (US)
 OWASP - Open Web Application Security Project  
 PCI DSS - Payment Card Industry Data Security Standard  
 PCI SSC - Payment Card Industry Security Standards Council  
+PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
 
