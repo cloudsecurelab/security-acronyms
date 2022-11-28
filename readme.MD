@@ -46,6 +46,7 @@ SHA - Secure Haching Algorithm
 AMSI - Anti-Malware Scan Interface  
 AV - Anti-Virus  
 CAASM - Cyber Asset Attack Surface Management (inventory management)  
+CIEM - Cloud Infrastructure Entitlement Management
 CSPM - Cloud Security Posture Management  
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
