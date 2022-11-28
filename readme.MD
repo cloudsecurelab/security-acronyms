@@ -13,6 +13,7 @@ CORS - Cross Origin Resource Sharing
 DOM - Document Object Model  
 FTPS - FTP-SSL or FTP Secure  
 IR - Incident Response  
+JIT - Just in Time (SAML)  
 JWT - JSON Web Token  
 MFA - Multi Factor Authentication  
 mTLS - Mutual Transport Layer Security  
@@ -186,7 +187,6 @@ ISC2 - International Information System Security Certification Consortium
 ISMS - Information Security Management System  
 ISO - International Organization for Standardization  
 ISS - Information System Security  
-JIT - Just in Time (SAML)  
 KCM - Kill Chain Model  
 LANGSEC - Language Security  
 LFI - Local File Inclusion  
