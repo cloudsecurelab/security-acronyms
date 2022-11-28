@@ -113,10 +113,11 @@ VPN - Virtual Private Network
 
 A&A - Assessment and Authorization
 
-## Threats
+## Threats, Attacks & Red team
 
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
+RaaS - Ransomware as a Service  
 SQLi - SQL Injection  
 XSS - Cross Site Scripting
 
@@ -220,7 +221,6 @@ PoC - Proof of Concept
 PFS - Perfect Forward Secrecy  
 PTES - Penetration Testing Execution Standard  
 PUP - Potentially Unwanted Program  
-RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
 RCE - Remote Code Execution  
 RFC - Request For Comments  
