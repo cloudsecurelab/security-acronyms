@@ -115,12 +115,13 @@ VPN - Virtual Private Network
 
 A&A - Assessment and Authorization
 
-## Threats, Attacks & Red team
+## Attacks, Vulnerabilities, Threats & Red team
 
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
 RaaS - Ransomware as a Service  
 SQLi - SQL Injection  
+XFS - Cross Frame Scripting
 XSS - Cross Site Scripting
 
 ## Pending to be classified (Help welcome)  
@@ -257,7 +258,6 @@ TPM - Transport Platform Module
 TPRM - Third Party Risk Management  
 UAC - User Access Control   
 XACML - eXtensible Access Control Markup Language  
-XFS - Cross Frame Scripting
 XXE - XML External Entity
 
 # Resources
