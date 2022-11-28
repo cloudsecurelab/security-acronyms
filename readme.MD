@@ -2,36 +2,6 @@
 
 Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers). All the terms are classified and explained to make sure that they are understandable.
 
-## Patterns, Protocols & Implementation Standards
-
-2FA - Two Factor Authentication; see also MFA  
-ABAC - Attribute Based Access Control  
-ACL - Access Control List  
-CA - Certificate Authority  
-CASB - Cloud Access Security Broker  
-CORS - Cross Origin Resource Sharing  
-DOM - Document Object Model  
-FTPS - FTP-SSL or FTP Secure  
-IR - Incident Response  
-JIT - Just in Time (SAML)  
-JWT - JSON Web Token  
-MFA - Multi Factor Authentication  
-mTLS - Mutual Transport Layer Security  
-OASIS - Organisation for the Advancement of Structured Information Standards  
-OAuth - Open Authorization  
-PaC - Policy as Code  
-SFTP - SSH File Transfer Protocol  
-SAML - Security Assertion Markup Language  
-SSH - Secure Shell
-SSL - Secure Sockets Layer  
-SSO - Single Sign-on  
-TLP - Traffic Light Protocol  
-TLS - Transport Layer Security  
-U2F - Universal Two Factor  
-WEP - Wired Equivalent Privacy (Protocol)
-WPA - Wi-Fi Protected Access (Protocol)
-WPS - Wi-Fi Protected Setup (Standard)
-
 ## Algorithms
 
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
@@ -44,6 +14,7 @@ SHA - Secure Haching Algorithm
 ## Security Industry Approaches
 
 AMSI - Anti-Malware Scan Interface  
+AST - Application Security Testing
 AV - Anti-Virus  
 CAASM - Cyber Asset Attack Surface Management (inventory management)  
 CIEM - Cloud Infrastructure Entitlement Management
@@ -88,6 +59,37 @@ PCI SSC - Payment Card Industry Security Standards Council
 PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
 SOC (1,2,3) - System and Organization Controls
+
+## Patterns, Protocols & Implementation Standards
+
+2FA - Two Factor Authentication; see also MFA  
+ABAC - Attribute Based Access Control  
+ACL - Access Control List  
+CA - Certificate Authority  
+CASB - Cloud Access Security Broker  
+CORS - Cross Origin Resource Sharing  
+DOM - Document Object Model  
+FTPS - FTP-SSL or FTP Secure  
+IR - Incident Response  
+JIT - Just in Time (SAML)  
+JWT - JSON Web Token  
+MFA - Multi Factor Authentication  
+mTLS - Mutual Transport Layer Security  
+OASIS - Organisation for the Advancement of Structured Information Standards  
+OAuth - Open Authorization  
+PaC - Policy as Code  
+SFTP - SSH File Transfer Protocol  
+SAML - Security Assertion Markup Language  
+SSH - Secure Shell
+SSL - Secure Sockets Layer  
+SSO - Single Sign-on  
+TLP - Traffic Light Protocol  
+TLS - Transport Layer Security  
+U2F - Universal Two Factor  
+WEP - Wired Equivalent Privacy (Protocol)
+WPA - Wi-Fi Protected Access (Protocol)
+WPS - Wi-Fi Protected Setup (Standard)
+
 
 ## Misc
 
