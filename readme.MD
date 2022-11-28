@@ -27,6 +27,7 @@ EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detect
 ETDR - See EDR  
 IAST - Interactive Application Security Testing  
 MSSP - Managed Security Services Provider  
+NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
 SCA - Source Composition Analysis  
@@ -207,7 +208,6 @@ NGCI - Next Generation Cyber Infrastructure
 NGES - Next Generation Endpoint Security  
 NGFW - Next Generation Firewall  
 NMS - Network Management System  
-NTA - Network Traffic Analysis  
 NX - No-Execute  
 ODoH - Oblivious DNS over HTTPS  
 OIDC - OpenID Connect  
