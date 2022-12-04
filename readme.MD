@@ -18,6 +18,7 @@ AST - Application Security Testing
 AV - Anti-Virus  
 CAASM - Cyber Asset Attack Surface Management (inventory management)  
 CIEM - Cloud Infrastructure Entitlement Management
+CNAPP - Cloud Native Application Protection Platform
 CSPM - Cloud Security Posture Management  
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
