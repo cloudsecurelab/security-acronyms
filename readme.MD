@@ -80,8 +80,9 @@ mTLS - Mutual Transport Layer Security
 OASIS - Organisation for the Advancement of Structured Information Standards  
 OAuth - Open Authorization  
 PaC - Policy as Code  
-SFTP - SSH File Transfer Protocol  
 SAML - Security Assertion Markup Language  
+SARIF - Static Analysis Results Interchange Format  
+SFTP - SSH File Transfer Protocol  
 SSH - Secure Shell
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
@@ -235,7 +236,6 @@ RTR - Rapid Threat Response
 SABSA - Sherwood Applied Business Security Architecture  
 SANS - SysAdmin, Audit, Network, and Security  
 SAQ - Self-Assessment Questionnaire  
-SARIF - Static Analysis Results Interchange Format  
 SASE - Secure Access Service Edge  
 SCIM - System for Cross-domain Identity Management  
 SSDLC - Secure Software Development Lifecycle  
