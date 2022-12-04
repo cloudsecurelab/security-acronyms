@@ -11,7 +11,7 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
-## Security Industry Approaches
+## Security Industry Approaches and protection strategies
 
 AMSI - Anti-Malware Scan Interface  
 AST - Application Security Testing
@@ -104,12 +104,16 @@ BGH - Big Game Hunting
 BIA - Business Impact Analysis  
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
+CoA - Course of Action  
 CVE - Common Vulnerabilities and Exposures  
 CVS - Common Vulnerability Score  
 CVSS - Common Vulnerability Scoring System  
 CSO - Chief Security Officer (role / persona)  
+IOA - Indicators of Attack  
+IOC - Indicators of Compromise  
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
 RBAC - Role Based Access Control    
+TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
 VPN - Virtual Private Network  
@@ -118,7 +122,7 @@ VPN - Virtual Private Network
 
 A&A - Assessment and Authorization
 
-## Attacks, Vulnerabilities, Threats & Red team
+## Attacks, Vulnerabilities, Threats & Red team stuff
 
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
@@ -142,8 +146,6 @@ CISO - Chief Information Security Officer
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
-CoA - Course of Action  
-CREST - CREST is not an acronym  
 CSA - Cloud Security Alliance  
 CSAF - Common Security Advisory Framework  
 CSP - Content Security Policy  
@@ -181,8 +183,6 @@ IDOR - Insecure Direct Object Reference
 IdP - Identity Provider  
 IDS - Intrusion Detection System  
 IETF - Internet Engineering Task Force  
-IOA - Indicators of Attack  
-IOC - Indicators of Compromise  
 IPE - Intelligence Preperation of the Environment  
 IPS - Intrusion Protection System  
 IPSec - Internet Protocol Security  
@@ -253,7 +253,6 @@ STIX - Structured Threat Information Expression
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege  
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TAXII - Trusted Automated Exchange of Intelligence Information  
-TI - Threat Intelligence  
 TIP - Threat Intelligence Platform  
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
