@@ -126,6 +126,7 @@ A&A - Assessment and Authorization
 
 ## Attacks, Vulnerabilities, Threats & Red team stuff
 
+CSRF - Cross Site Request Forgery
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
 RaaS - Ransomware as a Service  
@@ -151,7 +152,6 @@ CMM - Capability Maturity Model
 CSA - Cloud Security Alliance  
 CSAF - Common Security Advisory Framework  
 CSP - Content Security Policy  
-CSRF - Cross Site Request Forgery  
 CTF - Capture the Flag  
 CTI - Cyber Threat Intelligence  
 CVRF - Common Vulnerability Reporting Framework (now CSAF)  
