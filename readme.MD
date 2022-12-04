@@ -265,6 +265,6 @@ XXE - XML External Entity
 # Resources
 
 Original list extracted from [Ghostinashell Blog](https://blog.ghostinashell.com/acronyms/)  
-Enriched with terms learned from [Sysdig](https://sysdig.com)
+Enriched with terms learned from [Sysdig](https://sysdig.com)  
 Added some terms from [SecureWorldExpo](https://info.secureworldexpo.com/hubfs/PDF_collateral/Acronyms_cybersecurity_SecureWorld_090419.pdf)  
 Curated list of security resources [Awesome-sceurity](https://github.com/sbilly/awesome-security) 
