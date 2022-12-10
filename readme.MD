@@ -11,6 +11,17 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
+## Attacks, Vulnerabilities, Threats & Red team stuff
+
+CSRF - Cross Site Request Forgery
+DoS - Denial of Service  
+DDoS - Distributed Denial of Service  
+RaaS - Ransomware as a Service  
+RAT - Remote Access Trojan  
+SQLi - SQL Injection  
+XFS - Cross Frame Scripting
+XSS - Cross Site Scripting
+
 ## Security Industry Approaches and protection strategies
 
 AMSI - Anti-Malware Scan Interface  
@@ -98,16 +109,6 @@ WPS - Wi-Fi Protected Setup (Standard)
 
 A&A - Assessment and Authorization
 
-## Attacks, Vulnerabilities, Threats & Red team stuff
-
-CSRF - Cross Site Request Forgery
-DoS - Denial of Service  
-DDoS - Distributed Denial of Service  
-RaaS - Ransomware as a Service  
-RAT - Remote Access Trojan  
-SQLi - SQL Injection  
-XFS - Cross Frame Scripting
-XSS - Cross Site Scripting
   
 ## Misc
 
