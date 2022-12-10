@@ -1,4 +1,4 @@
-# Cybersecurity acronyms and abbreviations
+# Cybersecurity Acronyms and Abbreviations
 
 Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers). All the terms are classified and explained to make sure that they are understandable.
 
@@ -35,7 +35,8 @@ SCA - Source Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
-SOC - Security Operations Center  
+SOC - Security Operations Center
+TIP - Threat Intelligence Platform  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
@@ -254,7 +255,6 @@ STIX - Structured Threat Information Expression
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege  
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TAXII - Trusted Automated Exchange of Intelligence Information  
-TIP - Threat Intelligence Platform  
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
