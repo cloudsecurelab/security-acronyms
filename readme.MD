@@ -11,11 +11,12 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
-## Attacks, Vulnerabilities, Threats & Red team stuff
+## Attacks, Vulnerabilities, Threats (Red team stuff)
 
 CSRF - Cross Site Request Forgery
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
+MITM - Man in the middle (also Person in the middle)  
 RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
 SQLi - SQL Injection  
@@ -131,6 +132,7 @@ IOA - Indicators of Attack
 IOC - Indicators of Compromise  
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
 RBAC - Role Based Access Control    
+SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
@@ -202,7 +204,6 @@ LANGSEC - Language Security
 LFI - Local File Inclusion  
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
 MDFT - Mobile Device Forensic Tool  
-MITM - Man in the middle (also Person in the middle)  
 MSTIC - Microsoft Threat Intelligence Center  
 NAC - Network Access Control / also NACL (Network Access Control List)  
 NDA - Non Disclosure Agreement  
@@ -254,7 +255,6 @@ SSVC - Stakeholder-Specific Vulnerability Categorization
 STIG - Security Technical Implementation Guide  
 STIX - Structured Threat Information Expression  
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege  
-SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TAXII - Trusted Automated Exchange of Intelligence Information  
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
