@@ -92,9 +92,23 @@ TLS - Transport Layer Security
 U2F - Universal Two Factor  
 WEP - Wired Equivalent Privacy (Protocol)
 WPA - Wi-Fi Protected Access (Protocol)
-WPS - Wi-Fi Protected Setup (Standard)
+WPS - Wi-Fi Protected Setup (Standard) 
 
+## Security Processes
 
+A&A - Assessment and Authorization
+
+## Attacks, Vulnerabilities, Threats & Red team stuff
+
+CSRF - Cross Site Request Forgery
+DoS - Denial of Service  
+DDoS - Distributed Denial of Service  
+RaaS - Ransomware as a Service  
+RAT - Remote Access Trojan  
+SQLi - SQL Injection  
+XFS - Cross Frame Scripting
+XSS - Cross Site Scripting
+  
 ## Misc
 
 APT - Advanced Persistent Threat  
@@ -119,21 +133,8 @@ RBAC - Role Based Access Control
 TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
-VPN - Virtual Private Network  
+VPN - Virtual Private Network 
 
-## Security Processes
-
-A&A - Assessment and Authorization
-
-## Attacks, Vulnerabilities, Threats & Red team stuff
-
-CSRF - Cross Site Request Forgery
-DoS - Denial of Service  
-DDoS - Distributed Denial of Service  
-RaaS - Ransomware as a Service  
-SQLi - SQL Injection  
-XFS - Cross Frame Scripting
-XSS - Cross Site Scripting
 
 ## Pending to be classified (Help welcome)  
 
@@ -228,7 +229,6 @@ PoC - Proof of Concept
 PFS - Perfect Forward Secrecy  
 PTES - Penetration Testing Execution Standard  
 PUP - Potentially Unwanted Program  
-RAT - Remote Access Trojan  
 RCE - Remote Code Execution  
 RFC - Request For Comments  
 ROP - Return-oriented programming  
