@@ -36,6 +36,7 @@ CWP - Cloud Workload Protection
 CWPP - Cloud Workload Protection Platform  
 DAST - Dynamic Application Security Testing  
 DLP - Data Loss Prevention  
+DSPM - Data Security Posture Management  
 EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
 ETDR - See EDR  
 IAST - Interactive Application Security Testing  
