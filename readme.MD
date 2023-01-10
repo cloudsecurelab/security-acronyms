@@ -146,7 +146,7 @@ CAPP - Controlled Access Protection Profile
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
 CCSP - Certified Cloud Security Professional (ISC2)  
-CDR - (1) Content Disarm & Reconstruction - (2) Cloud Detection & Response
+CDR - (1) Content Disarm & Reconstruction - (2) Cloud Detection & Response  
 CERT - Computer Emergency Response Team  
 CIA - Confidentiality; Integrity; Availability  
 CIS - Center for Internet Security    
