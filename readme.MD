@@ -131,6 +131,7 @@ CVSS - Common Vulnerability Scoring System
 CSO - Chief Security Officer (role / persona)  
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
+MTTR - Mean Time to Resolution
 SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
 RBAC - Role Based Access Control    
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
