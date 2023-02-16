@@ -111,7 +111,6 @@ WPS - Wi-Fi Protected Setup (Standard)
 
 A&A - Assessment and Authorization
 
-  
 ## Misc
 
 APT - Advanced Persistent Threat  
@@ -132,8 +131,9 @@ CSO - Chief Security Officer (role / persona)
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
 MTTR - Mean Time to Resolution
-SDLC - Software Development Lifecycle (also sometimes System Development Lifecycle)
-RBAC - Role Based Access Control    
+SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)
+RBAC - Role Based Access Control
+SKU - Stock Keeping Unit (Unique identificaiton that definees an element)
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
