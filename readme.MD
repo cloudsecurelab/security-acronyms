@@ -245,6 +245,7 @@ SAQ - Self-Assessment Questionnaire
 SASE - Secure Access Service Edge  
 SCIM - System for Cross-domain Identity Management  
 SSDLC - Secure Software Development Lifecycle  
+SSE - Security Services Edge (A subset of SASE)
 SECCOMP - Secure Computing  
 SET - Social Engineering Toolkit  
 SFP - Saved Frame Pointer  
