@@ -157,7 +157,7 @@ CISO - Chief Information Security Officer
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
-CSA - Cloud Security Alliance  
+CSA - (1) Cloud Security Alliance (2) Continuous Security Assessment  
 CSAF - Common Security Advisory Framework  
 CSP - Content Security Policy  
 CTF - Capture the Flag  
