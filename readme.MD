@@ -133,6 +133,7 @@ IOC - Indicators of Compromise
 MTTR - Mean Time to Resolution
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)
 RBAC - Role Based Access Control
+SD-WAN - Software Defined Wide Area Network
 SKU - Stock Keeping Unit (Unique identificaiton that definees an element)
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence  
