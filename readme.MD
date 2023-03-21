@@ -23,7 +23,7 @@ SQLi - SQL Injection
 XFS - Cross Frame Scripting
 XSS - Cross Site Scripting
 
-## Security Industry Approaches and protection strategies
+## Security Approaches and Industry spaces
 
 AMSI - Anti-Malware Scan Interface  
 AST - Application Security Testing
@@ -40,6 +40,8 @@ DLP - Data Loss Prevention
 DSPM - Data Security Posture Management  
 EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
 ETDR - See EDR  
+HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
+HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
 MSSP - Managed Security Services Provider  
 NTA - Network Traffic Analysis  
@@ -185,8 +187,6 @@ FPC - Full Packet Capture
 GCM - Galois/Counter Mode  
 GPG - GnuPG  
 GRC - Governance, Risk & Compliance  
-HIDS - Host Intrusion Detection System (also NIDS for Network)  
-HIPS - Host Intrusion Prevention System  
 HSM - Hardware Security Module  
 HSTS - HTTP Strict Transfer Protocol  
 IDAM - Identity & Access Management  
