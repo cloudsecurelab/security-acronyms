@@ -16,9 +16,11 @@ SHA - Secure Haching Algorithm
 CSRF - Cross Site Request Forgery
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
+Malware - Malicios Software
 MITM - Man in the middle (also Person in the middle)  
 RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
+RCE - Remote Code Execution  
 SQLi - SQL Injection  
 XFS - Cross Frame Scripting
 XSS - Cross Site Scripting
@@ -235,7 +237,6 @@ PoC - Proof of Concept
 PFS - Perfect Forward Secrecy  
 PTES - Penetration Testing Execution Standard  
 PUP - Potentially Unwanted Program  
-RCE - Remote Code Execution  
 RFC - Request For Comments  
 ROP - Return-oriented programming  
 RP - Return Pointer  
