@@ -138,10 +138,11 @@ CSO - Chief Security Officer (role / persona)
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
 MTTR - Mean Time to Resolution
-SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)
-RBAC - Role Based Access Control
-SD-WAN - Software Defined Wide Area Network
-SKU - Stock Keeping Unit (Unique identificaiton that definees an element)
+RBAC - Role Based Access Control 
+SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle) 
+SD-WAN - Software Defined Wide Area Network 
+SKU - Stock Keeping Unit (Unique identificaiton that definees an element) 
+SRA - Security Response Automation
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
