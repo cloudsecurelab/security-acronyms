@@ -1,4 +1,4 @@
-# Cybersecurity Acronyms and Abbreviations
+# Cyber Security Acronyms and Abbreviations
 
 Curated list of acronyms related to the modern cyber security industry (cloud, kubernetes, containers). All the terms are classified and explained to make sure that they are understandable.
 
@@ -68,7 +68,8 @@ BGDPL - Brazilian General Data Protection Law (Brazil)
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 GDPR - General Data Protection Regulation (Europe)
-HIPAA - Health Insurance Portability and Accountability Act  
+HIPAA - Health Insurance Portability and Accountability Act
+ISO - International Organization for Standardization  
 MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”  
 NVD - National Vulnerability Database (USA)  
 NIST - National Institute of Standards and Technology (US)  
@@ -130,6 +131,7 @@ CoA - Course of Action
 CVE - Common Vulnerabilities and Exposures  
 CVS - Common Vulnerability Score  
 CVSS - Common Vulnerability Scoring System  
+CISO - Chief Information Security Officer 
 CSO - Chief Security Officer (role / persona)  
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
@@ -155,8 +157,7 @@ CDR - (1) Content Disarm & Reconstruction - (2) Cloud Detection & Response
 CERT - Computer Emergency Response Team  
 CIA - Confidentiality; Integrity; Availability  
 CIS - Center for Internet Security    
-CISA - Cybersecurity and Infrastructure Security Agency  
-CISO - Chief Information Security Officer  
+CISA - Cybersecurity and Infrastructure Security Agency   
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
@@ -201,7 +202,6 @@ IRM - Integrated Risk Management
 IRP - Incident Response Playbook  
 ISC2 - International Information System Security Certification Consortium  
 ISMS - Information Security Management System  
-ISO - International Organization for Standardization  
 ISS - Information System Security  
 KCM - Kill Chain Model  
 LANGSEC - Language Security  
