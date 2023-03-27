@@ -11,7 +11,7 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
-## Attacks, Vulnerabilities, Threats (Red team stuff)
+## Attacks, Vulnerabilities, and Threats
 
 CSRF - Cross Site Request Forgery
 DoS - Denial of Service  
