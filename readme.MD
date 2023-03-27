@@ -142,8 +142,8 @@ RBAC - Role Based Access Control
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle) 
 SD-WAN - Software Defined Wide Area Network 
 SKU - Stock Keeping Unit (Unique identificaiton that definees an element) 
-SRA - Security Response Automation
-SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
+SRA - Security Response Automation 
+SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis) 
 TI - Threat Intelligence  
 TTP - Tactics, Techniques, and Procedures  
 VAP - Very Attacked Person  
