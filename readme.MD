@@ -135,6 +135,7 @@ CVS - Common Vulnerability Score
 CVSS - Common Vulnerability Scoring System  
 CISO - Chief Information Security Officer 
 CSO - Chief Security Officer (role / persona)  
+IAM - Identity Access Management
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
 MTTR - Mean Time to Resolution  
@@ -146,6 +147,7 @@ SRA - Security Response Automation
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence   
 TTP - Tactics, Techniques, and Procedures  
+PAM - Privileged Access Management
 VAP - Very Attacked Person  
 VPN - Virtual Private Network 
 
