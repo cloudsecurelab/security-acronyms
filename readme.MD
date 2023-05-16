@@ -53,7 +53,7 @@ SCA - Source Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
-SOC - Security Operations Center
+SOC - Security Operations Center  
 TIP - Threat Intelligence Platform  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
