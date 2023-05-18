@@ -129,6 +129,8 @@ BGH - Big Game Hunting
 BIA - Business Impact Analysis  
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
+CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
+CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
 CVE - Common Vulnerabilities and Exposures  
 CVS - Common Vulnerability Score  
@@ -161,8 +163,7 @@ CCSP - Certified Cloud Security Professional (ISC2)
 CDR - (1) Content Disarm & Reconstruction - (2) Cloud Detection & Response  
 CERT - Computer Emergency Response Team  
 CIA - Confidentiality; Integrity; Availability  
-CIS - Center for Internet Security    
-CISA - Cybersecurity and Infrastructure Security Agency   
+CIS - Center for Internet Security       
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
