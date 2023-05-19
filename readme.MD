@@ -69,6 +69,8 @@ ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge
 BGDPL - Brazilian General Data Protection Law (Brazil)
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
+CSAF - Common Security Advisory Framework [(2.0)](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html)  
+CVRF - Common Vulnerability Reporting Framework (now CSAF)  
 GDPR - General Data Protection Regulation (Europe)
 HIPAA - Health Insurance Portability and Accountability Act
 ISO - International Organization for Standardization  
@@ -168,11 +170,9 @@ CISSP - Certified Information Systems Security Professional (ISC2)
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
 CSA - (1) Cloud Security Alliance (2) Continuous Security Assessment  
-CSAF - Common Security Advisory Framework  
 CSP - Content Security Policy  
 CTF - Capture the Flag  
 CTI - Cyber Threat Intelligence  
-CVRF - Common Vulnerability Reporting Framework (now CSAF)  
 CWE - Common Weakness Enumeration  
 DEP - Data Execution Prevention  
 DFIR - Digital Forensics and Incident Response  
