@@ -25,7 +25,7 @@ SQLi - SQL Injection
 XFS - Cross Frame Scripting
 XSS - Cross Site Scripting
 
-## Security Approaches and Industry spaces
+## Security Industry Approaches  
 
 AMSI - Anti-Malware Scan Interface  
 AST - Application Security Testing
