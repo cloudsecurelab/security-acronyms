@@ -63,7 +63,7 @@ VM - Vulnerability Management (also Virtual Machine outside of infosec)
 WAF - Web Application Firewall  
 XDR - eXtended Detection and Response  
 
-## Security & Compliance organizations, frameworks & standards
+## Security & Compliance frameworks, standards & work groups
 
 APRA - Australian Prudential Regulation Authority  
 ASLR - Address Space Layout Randomisation  
@@ -85,6 +85,7 @@ PCI DSS - Payment Card Industry Data Security Standard
 PCI SSC - Payment Card Industry Security Standards Council  
 PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
+SLSA - Supply-chain Levels for Software Artifact - [Link](https://slsa.dev/)  
 SOC (1,2,3) - System and Organization Controls
 
 ## Patterns, Protocols & Implementation Standards
