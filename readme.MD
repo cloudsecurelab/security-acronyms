@@ -31,6 +31,7 @@ AMSI - Anti-Malware Scan Interface
 AST - Application Security Testing
 AV - Anti-Virus  
 CAASM - Cyber Asset Attack Surface Management (inventory management)  
+CDR - Cloud Detection and Response  
 CIEM - Cloud Infrastructure Entitlement Management  
 CNAPP - Cloud Native Application Protection Platform  
 C-SCRM - Cyber Supplly Chain Risk Management ([Link](https://csrc.nist.rip/scrm/#:~:text=Cyber%20Supply%20Chain%20Risk%20Management%20(C%2DSCRM)%20is%20the,product%20and%20service%20supply%20chains.))  
@@ -46,6 +47,8 @@ HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-base
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
 MSSP - Managed Security Services Provider  
+NDR - Network Detection & Response  
+NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
@@ -162,7 +165,6 @@ CAPP - Controlled Access Protection Profile
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
 CCSP - Certified Cloud Security Professional (ISC2)  
-CDR - (1) Content Disarm & Reconstruction - (2) Cloud Detection & Response  
 CERT - Computer Emergency Response Team  
 CIA - Confidentiality; Integrity; Availability  
 CIS - Center for Internet Security       
@@ -215,11 +217,8 @@ LFI - Local File Inclusion
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
 MDFT - Mobile Device Forensic Tool  
 MSTIC - Microsoft Threat Intelligence Center  
-NAC - Network Access Control / also NACL (Network Access Control List)  
-NDA - Non Disclosure Agreement  
+NAC - Network Access Control / also NACL (Network Access Control List)    
 NDB - Notifiable Data Breache(s)  
-NDR - Network Detection & Response  
-NIDS - Network Intrustion Detection System  
 NGCI - Next Generation Cyber Infrastructure  
 NGES - Next Generation Endpoint Security  
 NGFW - Next Generation Firewall  
