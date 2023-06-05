@@ -234,10 +234,7 @@ OSINT - Open Source Intelligence
 OTP - One Time Pad ( sometimes One Time Password)  
 PASTA - Process for Attack Simulation & Threat Analysis  
 PCD - Payment Card Data  
-PIC - Position-independent Code  
-PIE - Position-independent Executable  
 PGP - Pretty Good Privacy. See also GPG  
-PoC - Proof of Concept  
 PFS - Perfect Forward Secrecy  
 PTES - Penetration Testing Execution Standard  
 PUP - Potentially Unwanted Program  
