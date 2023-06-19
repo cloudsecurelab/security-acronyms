@@ -73,6 +73,7 @@ BGDPL - Brazilian General Data Protection Law (Brazil)
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 CSAF - Common Security Advisory Framework [(2.0)](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html)  
+CIS - Center for Internet Security [Link](https://www.cisecurity.org/)  
 CVRF - Common Vulnerability Reporting Framework (now CSAF)  
 GDPR - General Data Protection Regulation (Europe)
 HIPAA - Health Insurance Portability and Accountability Act
@@ -137,6 +138,7 @@ BIA - Business Impact Analysis
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
+CCSP - Certified Cloud Security Professional (ISC2)  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
 CVE - Common Vulnerabilities and Exposures  
@@ -166,10 +168,8 @@ VPN - Virtual Private Network
 CAPP - Controlled Access Protection Profile  
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
-CCSP - Certified Cloud Security Professional (ISC2)  
 CERT - Computer Emergency Response Team  
-CIA - Confidentiality; Integrity; Availability  
-CIS - Center for Internet Security       
+CIA - Confidentiality; Integrity; Availability      
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
