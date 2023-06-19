@@ -85,6 +85,7 @@ PCI DSS - Payment Card Industry Data Security Standard
 PCI SSC - Payment Card Industry Security Standards Council  
 PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
+SAMM - Software Assurance Maturity Model (OWASP) [Link](https://owaspsamm.org/)  
 SLSA - Supply-chain Levels for Software Artifact - [Link](https://slsa.dev/)  
 SOC (1,2,3) - System and Organization Controls
 
