@@ -39,6 +39,7 @@ CSPM - Cloud Security Posture Management
 CWP - Cloud Workload Protection  
 CWPP - Cloud Workload Protection Platform  
 DAST - Dynamic Application Security Testing  
+DDR - Data Detection & Response  
 DLP - Data Loss Prevention  
 DSPM - Data Security Posture Management  
 EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
@@ -46,6 +47,7 @@ ETDR - See EDR
 HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
+IDTR - Identity Detection & Response
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
 NIDS - Network Intrustion Detection System  
