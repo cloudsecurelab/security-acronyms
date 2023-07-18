@@ -151,6 +151,7 @@ CSO - Chief Security Officer (role / persona)
 IAM - Identity Access Management
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
+MALOPS - Malicious Operations  
 MTTR - Mean Time to Resolution  
 RBAC - Role Based Access Control  
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)  
