@@ -154,6 +154,7 @@ IOA - Indicators of Attack
 IOC - Indicators of Compromise  
 MALOPS - Malicious Operations  
 MTTR - Mean Time to Resolution  
+PAM - Privileged Access Management  
 RBAC - Role Based Access Control  
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)  
 SD-WAN - Software Defined Wide Area Network  
@@ -162,7 +163,7 @@ SRA - Security Response Automation
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence   
 TTP - Tactics, Techniques, and Procedures  
-PAM - Privileged Access Management
+UAC - User Access Control   
 VAP - Very Attacked Person  
 VPN - Virtual Private Network 
 
@@ -271,7 +272,6 @@ TAXII - Trusted Automated Exchange of Intelligence Information
 TOGAF - The Open Group Architecture Framework  
 TPM - Transport Platform Module  
 TPRM - Third Party Risk Management  
-UAC - User Access Control   
 XACML - eXtensible Access Control Markup Language  
 XXE - XML External Entity
 
