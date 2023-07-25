@@ -22,9 +22,9 @@ RaaS - Ransomware as a Service
 RAT - Remote Access Trojan  
 RCE - Remote Code Execution  
 SQLi - SQL Injection  
-SSRF - Server Side Request Forgery 
-XFS - Cross Frame Scripting 
-XSS - Cross Site Scripting 
+SSRF - Server Side Request Forgery  
+XFS - Cross Frame Scripting  
+XSS - Cross Site Scripting  
 
 ## Security Industry Approaches  
 
