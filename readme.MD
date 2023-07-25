@@ -16,7 +16,7 @@ SHA - Secure Haching Algorithm
 CSRF - Cross Site Request Forgery
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
-Malware - Malicios Software
+Malware - Malicios Software  
 MITM - Man in the middle (also Person in the middle)  
 RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
