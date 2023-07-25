@@ -28,7 +28,7 @@ XSS - Cross Site Scripting
 
 ## Security Industry Approaches  
 
-AMSI - Anti-Malware Scan Interface
+AMSI - Anti-Malware Scan Interface  
 ASPM - Application Posture Security Management  
 AST - Application Security Testing
 AV - Anti-Virus  
