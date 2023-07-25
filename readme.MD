@@ -80,7 +80,7 @@ CAPEC - Common Attack Pattern Enumeration and Classification
 CSAF - Common Security Advisory Framework [(2.0)](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html)  
 CIS - Center for Internet Security [Link](https://www.cisecurity.org/)  
 CVRF - Common Vulnerability Reporting Framework (now CSAF)  
-GDPR - General Data Protection Regulation (Europe)
+GDPR - General Data Protection Regulation (Europe)  
 HIPAA - Health Insurance Portability and Accountability Act
 ISO - International Organization for Standardization  
 MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”  
