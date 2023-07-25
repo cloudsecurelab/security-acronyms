@@ -31,7 +31,8 @@ AMSI - Anti-Malware Scan Interface
 ASPM - Application Posture Security Management  
 AST - Application Security Testing
 AV - Anti-Virus  
-CAASM - Cyber Asset Attack Surface Management (inventory management)  
+CAASM - Cyber Asset Attack Surface Management (inventory management)
+CASB - Cloud Access Security Broker  
 CDR - Cloud Detection and Response  
 CIEM - Cloud Infrastructure Entitlement Management  
 CNAPP - Cloud Native Application Protection Platform  
@@ -99,7 +100,6 @@ SOC (1,2,3) - System and Organization Controls
 ABAC - Attribute Based Access Control  
 ACL - Access Control List  
 CA - Certificate Authority  
-CASB - Cloud Access Security Broker  
 CORS - Cross Origin Resource Sharing  
 DOM - Document Object Model  
 FTPS - FTP-SSL or FTP Secure  
