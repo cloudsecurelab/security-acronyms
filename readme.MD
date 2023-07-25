@@ -22,8 +22,9 @@ RaaS - Ransomware as a Service
 RAT - Remote Access Trojan  
 RCE - Remote Code Execution  
 SQLi - SQL Injection  
-XFS - Cross Frame Scripting
-XSS - Cross Site Scripting
+SSRF - Server Side Request Forgery 
+XFS - Cross Frame Scripting 
+XSS - Cross Site Scripting 
 
 ## Security Industry Approaches  
 
@@ -101,6 +102,7 @@ ABAC - Attribute Based Access Control
 ACL - Access Control List  
 CA - Certificate Authority  
 CORS - Cross Origin Resource Sharing  
+DoH - DNS over HTTPS  
 DOM - Document Object Model  
 FTPS - FTP-SSL or FTP Secure  
 IR - Incident Response  
@@ -189,7 +191,6 @@ DKIM - DomainKeys Identified Mail
 DLS - Dedicated Leak Site  
 DMARC - Domain-based Message Authentication, Reporting & Conformance  
 DNSSEC - Domain Name System Security Extensions  
-DoH - DNS over HTTPS  
 DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability  
 EASM - Externam Attack Surface Management  
 EICAR - European Institute for Computer Antivirus Research  
@@ -261,8 +262,7 @@ SFP - Saved Frame Pointer
 SOA - Statemenet of Applicability  
 SOX - Sarbanes-Oxley Act  
 SPF - Sender Policy Framework  
-SRI - Sub-resource Integrity  
-SSRF - Server Side Request Forgery  
+SRI - Sub-resource Integrity   
 SSS - Stack Smashing Protector  
 SSVC - Stakeholder-Specific Vulnerability Categorization  
 STIG - Security Technical Implementation Guide  
