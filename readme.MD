@@ -32,7 +32,7 @@ AMSI - Anti-Malware Scan Interface
 ASPM - Application Posture Security Management  
 AST - Application Security Testing
 AV - Anti-Virus  
-CAASM - Cyber Asset Attack Surface Management (inventory management)
+CAASM - Cyber Asset Attack Surface Management (inventory management)  
 CASB - Cloud Access Security Broker  
 CDR - Cloud Detection and Response  
 CIEM - Cloud Infrastructure Entitlement Management  
