@@ -50,7 +50,8 @@ ETDR - See EDR
 HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
-IDTR - Identity Detection & Response
+IDTR - Identity Detection & Response  
+MDFT - Mobile Device Forensic Tool  
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
 NIDS - Network Intrustion Detection System  
@@ -223,8 +224,6 @@ KCM - Kill Chain Model
 LANGSEC - Language Security  
 LFI - Local File Inclusion  
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
-MDFT - Mobile Device Forensic Tool  
-MSTIC - Microsoft Threat Intelligence Center  
 NAC - Network Access Control / also NACL (Network Access Control List)    
 NDB - Notifiable Data Breache(s)  
 NGCI - Next Generation Cyber Infrastructure  
