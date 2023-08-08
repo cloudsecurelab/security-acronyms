@@ -63,6 +63,7 @@ SCAP - Security Content Automation Protocol
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
 SOC - Security Operations Center  
+SSPM - SaaS Security Posture Management  
 TIP - Threat Intelligence Platform  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
