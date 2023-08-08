@@ -36,6 +36,7 @@ CAASM - Cyber Asset Attack Surface Management (inventory management)
 CASB - Cloud Access Security Broker  
 CDR - Cloud Detection and Response  
 CIEM - Cloud Infrastructure Entitlement Management  
+CIAM - Cloud Identity Access Management  
 CNAPP - Cloud Native Application Protection Platform  
 C-SCRM - Cyber Supplly Chain Risk Management [Link](https://csrc.nist.rip/scrm/#:~:text=Cyber%20Supply%20Chain%20Risk%20Management%20(C%2DSCRM)%20is%20the,product%20and%20service%20supply%20chains.)  
 CSPM - Cloud Security Posture Management  
