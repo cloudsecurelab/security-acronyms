@@ -13,7 +13,10 @@ SHA - Secure Haching Algorithm
 
 ## Attacks, Vulnerabilities, and Threats
 
-CSRF - Cross Site Request Forgery
+CSRF - Cross Site Request Forgery  
+DC - Differential cryptanalytics  
+LC - Linear cryptanalytics  
+DA - Davies Attack  
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
 Malware - Malicios Software  
