@@ -12,7 +12,7 @@ RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wik
 SHA - Secure Haching Algorithm  
 
 ## Attacks, Vulnerabilities, and Threats
-### Malicious strategies from hackers or red-teams
+#### Malicious strategies from hackers or red-teams
 
 CSRF - Cross Site Request Forgery  
 DC - Differential cryptanalytics  
