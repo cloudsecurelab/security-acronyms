@@ -66,7 +66,6 @@ SCA - Source Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
-SOC - Security Operations Center  
 SSPM - SaaS Security Posture Management  
 TIP - Threat Intelligence Platform  
 UBA / UEBA - User and entity behavior analytics  
@@ -132,9 +131,18 @@ WEP - Wired Equivalent Privacy (Protocol)
 WPA - Wi-Fi Protected Access (Protocol)
 WPS - Wi-Fi Protected Setup (Standard) 
 
-## Security Processes
+## Processes, Teams and roles
 
 A&A - Assessment and Authorization
+CCSP - Certified Cloud Security Professional (ISC2)  
+CERT - Computer Emergency Response Team  
+CISO - Chief Information Security Officer  
+CISSP - Certified Information Systems Security Professional
+CPP - Certified Protection Professional
+CSO - Chief Security Officer (role / persona)  
+ECES - Certified Encryption Specialist  
+FIRST - Forum of Incident Response and Security Teams  
+SOC - Security Operations Center  
 
 ## Misc
 
@@ -149,14 +157,11 @@ BIA - Business Impact Analysis
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
-CCSP - Certified Cloud Security Professional (ISC2)  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
 CVE - Common Vulnerabilities and Exposures  
 CVS - Common Vulnerability Score  
 CVSS - Common Vulnerability Scoring System  
-CISO - Chief Information Security Officer 
-CSO - Chief Security Officer (role / persona)  
 IAM - Identity Access Management
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
@@ -181,8 +186,7 @@ VPN - Virtual Private Network
 CAPP - Controlled Access Protection Profile  
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
-CERT - Computer Emergency Response Team  
-CIA - Confidentiality; Integrity; Availability      
+CIA - Confidentiality; Integrity; Availability  
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CMM - Capability Maturity Model  
@@ -205,7 +209,6 @@ EPSS - Exploit Prediction Scoring System
 FAIR - Factor Analysis of Information Risk  
 FiDO - Fast IDentity Online  
 FIM - File Integrity Monitoring  
-FIRST - Forum of Incident Response and Security Teams  
 FPC - Full Packet Capture  
 GCM - Galois/Counter Mode  
 GPG - GnuPG  
