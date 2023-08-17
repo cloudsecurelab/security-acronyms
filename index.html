@@ -2,4 +2,5 @@
 layout: default
 ---
 
-{% include_relative /readme.MD %}
+{% capture readmemdcapture %}{% include_relative /readme.MD %}{% endcapture %}
+{{ readmemdcapture | markdownify }}
