@@ -288,3 +288,5 @@ Added some terms from [SecureWorldExpo](https://info.secureworldexpo.com/hubfs/P
 Curated list of security resources [Awesome-sceurity](https://github.com/sbilly/awesome-security)  
 List of products and vendors classified by security approach. [The Cloud Security List](https://list.latio.tech/)  
 OWASP Open Web Application Security (nonprofit foundation). [OWASP website](https://owasp.org/)  
+
+Contribute with [Cyber-Security List on Github](https://github.com/cloudsecurelab/security-acronyms/)  
