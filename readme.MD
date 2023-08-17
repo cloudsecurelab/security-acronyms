@@ -3,6 +3,7 @@
 Curated list of acronyms related to the modern cyber security landscape and industry (cloud, applications, assets, services, kubernetes and containers). Terms and buzzwords classified and explained to make sure that they are understandable.
 
 ## Algorithms
+_Encryption algorithms and other protection methods_
 
 3DES - Triple Data Encryption Algorithm (Also TDEA or Triple DEA)  
 AES - Advanced Encryption Standard  
