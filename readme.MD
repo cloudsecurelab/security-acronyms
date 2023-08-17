@@ -281,7 +281,6 @@ XXE - XML External Entity
 
 # Resources
 
-Public front page [Cloud Security Acronyms](https://cloudsecurelab.github.io/security-acronyms/)  
 Original list extracted from [Ghostinashell Blog](https://blog.ghostinashell.com/acronyms/)  
 Enriched with terms learned from [Sysdig](https://sysdig.com)  
 Added some terms from [SecureWorldExpo](https://info.secureworldexpo.com/hubfs/PDF_collateral/Acronyms_cybersecurity_SecureWorld_090419.pdf)  
@@ -289,4 +288,5 @@ Curated list of security resources [Awesome-sceurity](https://github.com/sbilly/
 List of products and vendors classified by security approach. [The Cloud Security List](https://list.latio.tech/)  
 OWASP Open Web Application Security (nonprofit foundation). [OWASP website](https://owasp.org/)  
 
+Public front page [Cloud Security Acronyms](https://cloudsecurelab.github.io/security-acronyms/)  
 Contribute with [Cyber-Security List on Github](https://github.com/cloudsecurelab/security-acronyms/)  
