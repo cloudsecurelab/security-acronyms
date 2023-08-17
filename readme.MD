@@ -12,6 +12,7 @@ RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wik
 SHA - Secure Haching Algorithm  
 
 ## Attacks, Vulnerabilities, and Threats
+### Malicious strategies from hackers or red-teams
 
 CSRF - Cross Site Request Forgery  
 DC - Differential cryptanalytics  
@@ -19,11 +20,12 @@ LC - Linear cryptanalytics
 DA - Davies Attack  
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
-Malware - Malicios Software  
+Malware - Malicious Software  
 MITM - Man in the middle (also Person in the middle)  
 RaaS - Ransomware as a Service  
 RAT - Remote Access Trojan  
 RCE - Remote Code Execution  
+SET - Social Engineering Toolkit  
 SQLi - SQL Injection  
 SSRF - Server Side Request Forgery  
 XFS - Cross Frame Scripting  
@@ -264,7 +266,6 @@ SCIM - System for Cross-domain Identity Management
 SSDLC - Secure Software Development Lifecycle  
 SSE - Security Services Edge (A subset of SASE)  
 SECCOMP - Secure Computing  
-SET - Social Engineering Toolkit  
 SFP - Saved Frame Pointer  
 SOA - Statemenet of Applicability  
 SOX - Sarbanes-Oxley Act  
