@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: /docs/
+source: /
 incremental: false
 highlighter: rouge
 gist:
