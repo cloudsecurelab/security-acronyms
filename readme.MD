@@ -120,6 +120,7 @@ MFA - Multi Factor Authentication
 mTLS - Mutual Transport Layer Security  
 OASIS - Organisation for the Advancement of Structured Information Standards  
 OAuth - Open Authorization  
+OTP - One Time Password ( sometimes One Time Pad)  
 PaC - Policy as Code  
 SAML - Security Assertion Markup Language  
 SARIF - Static Analysis Results Interchange Format  
@@ -248,7 +249,6 @@ OPSec - Operational Security
 OSCAL - Open Security Controls Assessment Language  
 OSCP - Offensive Security Certified Professional  
 OSINT - Open Source Intelligence  
-OTP - One Time Pad ( sometimes One Time Password)  
 PASTA - Process for Attack Simulation & Threat Analysis  
 PCD - Payment Card Data  
 PGP - Pretty Good Privacy. See also GPG  
