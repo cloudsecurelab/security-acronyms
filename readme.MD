@@ -1,6 +1,6 @@
 # Cyber Security Acronyms and Abbreviations
 
-Curated list of acronyms related to the modern cyber security landscape and industry (cloud, applications, assets, services, kubernetes and containers). Terms and buzzwords classified and explained to make sure that they are understandable.
+Curated list of acronyms related to cyber security landscape including industry, open source and non-profit organizations that have anything to do with security practices around cloud, applications, assets, services, kubernetes and containers). This glossary classifies and explains terms to make them understandable beyond the 'buzzoword'.
 
 ## Algorithms
 _Encryption algorithms and other protection methods_
