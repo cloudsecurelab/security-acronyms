@@ -139,6 +139,7 @@ WPS - Wi-Fi Protected Setup (Standard)
 
 A&A - Assessment and Authorization
 CCSP - Certified Cloud Security Professional (ISC2)  
+CDC - Cyber Defense Center  
 CERT - Computer Emergency Response Team  
 CISO - Chief Information Security Officer  
 CISSP - Certified Information Systems Security Professional
