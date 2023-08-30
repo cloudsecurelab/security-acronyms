@@ -142,9 +142,9 @@ CCSP - Certified Cloud Security Professional (ISC2)
 CDC - Cyber Defense Center  
 CERT - Computer Emergency Response Team  
 CISO - Chief Information Security Officer  
-CISSP - Certified Information Systems Security Professional
-CPP - Certified Protection Professional
-CSO - Chief Security Officer (role / persona)  
+CISSP - Certified Information Systems Security Professional  
+CPP - Certified Protection Professional  
+CSO - Chief Security Officer (role)  
 ECES - Certified Encryption Specialist  
 FIRST - Forum of Incident Response and Security Teams  
 SOC - Security Operations Center  
