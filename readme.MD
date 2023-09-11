@@ -86,14 +86,14 @@ APRA - Australian Prudential Regulation Authority
 ASLR - Address Space Layout Randomisation  
 ASVS - (OWASP) Application Security Verification Standard  
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
-BGDPL - Brazilian General Data Protection Law (Brazil)
+BGDPL - Brazilian General Data Protection Law (Brazil)  
 DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 CSAF - Common Security Advisory Framework [(2.0)](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html)  
 CIS - Center for Internet Security [Link](https://www.cisecurity.org/)  
 CVRF - Common Vulnerability Reporting Framework (now CSAF)  
 GDPR - General Data Protection Regulation (Europe)  
-HIPAA - Health Insurance Portability and Accountability Act
+HIPAA - Health Insurance Portability and Accountability Act  
 ISO - International Organization for Standardization  
 MITRE - Not an acronym - “a name that was meaningless and without connotations, but with an attractive feel.”  
 NVD - National Vulnerability Database (USA)  
@@ -105,7 +105,7 @@ PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
 SAMM - Software Assurance Maturity Model (OWASP) [Link](https://owaspsamm.org/)  
 SLSA - Supply-chain Levels for Software Artifact - [Link](https://slsa.dev/)  
-SOC (1,2,3) - System and Organization Controls
+SOC (1,2,3) - System and Organization Controls  
 
 ## Patterns, Protocols & Implementation Standards
 
@@ -129,14 +129,14 @@ PaC - Policy as Code
 SAML - Security Assertion Markup Language  
 SARIF - Static Analysis Results Interchange Format  
 SFTP - SSH File Transfer Protocol  
-SSH - Secure Shell
+SSH - Secure Shell  
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
 TLP - Traffic Light Protocol  
 TLS - Transport Layer Security  
 U2F - Universal Two Factor  
-WEP - Wired Equivalent Privacy (Protocol)
-WPA - Wi-Fi Protected Access (Protocol)
+WEP - Wired Equivalent Privacy (Protocol)  
+WPA - Wi-Fi Protected Access (Protocol)  
 WPS - Wi-Fi Protected Setup (Standard) 
 
 ## Processes, Teams and roles
