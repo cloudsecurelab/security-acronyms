@@ -62,6 +62,7 @@ HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-base
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
 IDTR - Identity Detection & Response  
+ITDR - Identity Threat Detection & Response  
 MDFT - Mobile Device Forensic Tool  
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
