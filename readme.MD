@@ -70,7 +70,7 @@ NIDS - Network Intrustion Detection System
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
 SAST - Static Application Security Testing  
-SCA - Source Composition Analysis  
+SCA - Software Composition Analysis  
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
