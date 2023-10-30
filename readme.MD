@@ -36,7 +36,8 @@ SSRF - Server Side Request Forgery
 XFS - Cross Frame Scripting  
 XSS - Cross Site Scripting  
 
-## Security Industry Approaches  
+## Protection approaches
+_Security strategies, solutions, and patterns_
 
 AMSI - Anti-Malware Scan Interface  
 ASPM - Application Security Posture Management  
