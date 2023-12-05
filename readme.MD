@@ -82,7 +82,7 @@ VM - Vulnerability Management (also Virtual Machine outside of infosec)
 WAF - Web Application Firewall  
 XDR - eXtended Detection and Response  
 
-## Security & Compliance frameworks, standards & work groups
+## Security & Compliance frameworks & work groups
 
 APRA - Australian Prudential Regulation Authority  
 ASLR - Address Space Layout Randomisation  
@@ -131,6 +131,7 @@ PaC - Policy as Code
 SAML - Security Assertion Markup Language  
 SARIF - Static Analysis Results Interchange Format  
 SFTP - SSH File Transfer Protocol  
+SPDX - Software Package Data Exchange [link](https://spdx.dev/)
 SSH - Secure Shell  
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
