@@ -131,7 +131,7 @@ PaC - Policy as Code
 SAML - Security Assertion Markup Language  
 SARIF - Static Analysis Results Interchange Format  
 SFTP - SSH File Transfer Protocol  
-SPDX - Software Package Data Exchange [link](https://spdx.dev/)
+SPDX - Software Package Data Exchange [link](https://spdx.dev/)  
 SSH - Secure Shell  
 SSL - Secure Sockets Layer  
 SSO - Single Sign-on  
