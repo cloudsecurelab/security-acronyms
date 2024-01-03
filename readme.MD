@@ -70,6 +70,7 @@ NDR - Network Detection & Response
 NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
+SASE - Secure Access Service Edge  
 SAST - Static Application Security Testing  
 SCA - Software Composition Analysis  
 SCAP - Security Content Automation Protocol  
@@ -185,6 +186,7 @@ SDLC - Software Development Lifecycle (Also sometimes System Development Lifecyc
 SD-WAN - Software Defined Wide Area Network  
 SKU - Stock Keeping Unit (Unique identificaiton that definees an element)  
 SRA - Security Response Automation  
+SSS - Stack Smashing Protector (compilers)
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence   
 TTP - Tactics, Techniques, and Procedures  
@@ -270,7 +272,6 @@ RTR - Rapid Threat Response
 SABSA - Sherwood Applied Business Security Architecture  
 SANS - SysAdmin, Audit, Network, and Security  
 SAQ - Self-Assessment Questionnaire  
-SASE - Secure Access Service Edge  
 SCIM - System for Cross-domain Identity Management  
 SSDLC - Secure Software Development Lifecycle  
 SSE - Security Services Edge (A subset of SASE)  
@@ -280,7 +281,6 @@ SOA - Statemenet of Applicability
 SOX - Sarbanes-Oxley Act  
 SPF - Sender Policy Framework  
 SRI - Sub-resource Integrity   
-SSS - Stack Smashing Protector  
 SSVC - Stakeholder-Specific Vulnerability Categorization  
 STIG - Security Technical Implementation Guide  
 STIX - Structured Threat Information Expression  
