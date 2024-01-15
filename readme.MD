@@ -194,16 +194,17 @@ UAC - User Access Control
 VAP - Very Attacked Person  
 VPN - Virtual Private Network 
 
+## Terms that are not specific to security but are useful
+CC - Common Criteria  
+CCM - Cloud Controls Matrix  
+NRT - Near Real Time  
 
 ## Pending to be classified (Help welcome)  
 
 CAPP - Controlled Access Protection Profile  
-CC - Common Criteria  
-CCM - Cloud Controls Matrix  
 CIA - Confidentiality; Integrity; Availability  
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
-CMM - Capability Maturity Model  
 CSA - (1) Cloud Security Alliance (2) Continuous Security Assessment  
 CSP - Content Security Policy  
 CTF - Capture the Flag  
