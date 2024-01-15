@@ -90,11 +90,15 @@ ASLR - Address Space Layout Randomisation
 ASVS - (OWASP) Application Security Verification Standard  
 ATT&CK - (MITRE) Adversarial Tactics, Techniques, and Common Knowledge  
 BGDPL - Brazilian General Data Protection Law (Brazil)  
-DSS - Data Security Standard (See PCI)  
 CAPEC - Common Attack Pattern Enumeration and Classification  
 CSAF - Common Security Advisory Framework [(2.0)](https://docs.oasis-open.org/csaf/csaf/v2.0/os/csaf-v2.0-os.html)  
 CIS - Center for Internet Security [Link](https://www.cisecurity.org/)  
+CVE - Common Vulnerabilities and Exposures  
 CVRF - Common Vulnerability Reporting Framework (now CSAF)  
+CVS - Common Vulnerability Score  
+CVSS - Common Vulnerability Scoring System  
+DSS - Data Security Standard (See PCI)  
+EPSS - Exploit Prediction Scoring System  
 GDPR - General Data Protection Regulation (Europe)  
 HIPAA - Health Insurance Portability and Accountability Act  
 ISO - International Organization for Standardization  
@@ -172,9 +176,6 @@ C2 - Command & Control
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
-CVE - Common Vulnerabilities and Exposures  
-CVS - Common Vulnerability Score  
-CVSS - Common Vulnerability Scoring System  
 IAM - Identity Access Management
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
@@ -220,7 +221,6 @@ DREAD - Damage; Reproducability; Exploitability; Affected Users; Discoverability
 EASM - Externam Attack Surface Management  
 EICAR - European Institute for Computer Antivirus Research  
 EPP - Endpoint Protection Platform  
-EPSS - Exploit Prediction Scoring System  
 FAIR - Factor Analysis of Information Risk  
 FiDO - Fast IDentity Online  
 FIM - File Integrity Monitoring  
