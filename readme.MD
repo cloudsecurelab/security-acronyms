@@ -114,7 +114,7 @@ PIPEDA - Personal Information Protection and Electronic Documents Act (Canada)
 TARA - Threat Agent Risk Assessment (Methodology)  
 SAMM - Software Assurance Maturity Model (OWASP) [Link](https://owaspsamm.org/)  
 SLSA - Supply-chain Levels for Software Artifact - [Link](https://slsa.dev/)  
-SOC (1,2,3) - System and Organization Controls  
+SOC (1,2,3) - [System and Organization Controls](https://en.wikipedia.org/wiki/System_and_Organization_Controls). See also the *"Processes, Teams and roles"* section. 
 
 ## Patterns, Protocols & Implementation Standards
 
