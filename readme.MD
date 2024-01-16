@@ -176,7 +176,7 @@ C2 - Command & Control
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
-IAM - Identity Access Management
+IAM - Identity Access Management  
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
 MALOPS - Malicious Operations  
