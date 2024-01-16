@@ -59,7 +59,7 @@ DLP - Data Loss Prevention
 DSPM - Data Security Posture Management  
 EDR - Endpoint Detection and Response, sometimes known as Endpoint Threat Detection and Response (ETDR)  
 ETDR - See EDR  
-HIDS - [Host Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
+HIDS - [Host based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
 IDTR - Identity Detection & Response  
