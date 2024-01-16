@@ -62,7 +62,9 @@ ETDR - See EDR
 HIDS - [Host based Intrusion Detection System](https://en.wikipedia.org/wiki/Host-based_intrusion_detection_system) (also NIDS for Network)  
 HIPS - Host Intrusion Prevention System  
 IAST - Interactive Application Security Testing  
+IDS - Intrusion Detection System  
 IDTR - Identity Detection & Response  
+IPS - Intrusion Protection System  
 ITDR - Identity Threat Detection & Response  
 MDFT - Mobile Device Forensic Tool  
 MSSP - Managed Security Services Provider  
@@ -233,10 +235,8 @@ HSTS - HTTP Strict Transfer Protocol
 IDAM - Identity & Access Management  
 IDOR - Insecure Direct Object Reference  
 IdP - Identity Provider  
-IDS - Intrusion Detection System  
 IETF - Internet Engineering Task Force  
 IPE - Intelligence Preperation of the Environment  
-IPS - Intrusion Protection System  
 IPSec - Internet Protocol Security  
 IRM - Integrated Risk Management  
 IRP - Incident Response Playbook  
