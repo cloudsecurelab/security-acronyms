@@ -78,6 +78,7 @@ SCA - Software Composition Analysis
 SCAP - Security Content Automation Protocol  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
+SSE - Security Services Edge (A subset of SASE)  
 SSPM - SaaS Security Posture Management  
 TIP - Threat Intelligence Platform  
 UBA / UEBA - User and entity behavior analytics  
@@ -275,7 +276,6 @@ SANS - SysAdmin, Audit, Network, and Security
 SAQ - Self-Assessment Questionnaire  
 SCIM - System for Cross-domain Identity Management  
 SSDLC - Secure Software Development Lifecycle  
-SSE - Security Services Edge (A subset of SASE)  
 SECCOMP - Secure Computing  
 SFP - Saved Frame Pointer  
 SOA - Statemenet of Applicability  
