@@ -40,7 +40,7 @@ XSS - Cross Site Scripting
 _Security strategies, solutions, and patterns_
 
 AMSI - Anti-Malware Scan Interface  
-ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)
+ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)  
 ASPM - Application Security Posture Management  
 AST - Application Security Testing
 AV - Anti-Virus  
