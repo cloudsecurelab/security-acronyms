@@ -203,6 +203,7 @@ VPN - Virtual Private Network
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
 NRT - Near Real Time  
+TPP - Third Party Payment provider
 
 ## Pending to be classified (Help welcome)  
 
