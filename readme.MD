@@ -163,6 +163,8 @@ CPP - Certified Protection Professional
 CSO - Chief Security Officer (role)  
 ECES - Certified Encryption Specialist  
 FIRST - Forum of Incident Response and Security Teams  
+NICCS - National Initiative for Cybersecurity Careers and Studies  
+NICE - [NICCS Workforce Framework for Cybersecurity](https://niccs.cisa.gov/workforce-development/nice-framework)  
 SOC - Security Operations Center  
 
 ## Misc
