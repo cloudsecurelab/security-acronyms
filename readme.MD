@@ -204,6 +204,7 @@ VPN - Virtual Private Network
 ## Terms that are not specific to security but are useful
 CC - Common Criteria  
 CCM - Cloud Controls Matrix  
+NMS - Network Management System   
 NRT - Near Real Time  
 TPP - Third Party Payment provider
 
@@ -257,8 +258,6 @@ NDB - Notifiable Data Breache(s)
 NGCI - Next Generation Cyber Infrastructure  
 NGES - Next Generation Endpoint Security  
 NGFW - Next Generation Firewall  
-NMS - Network Management System  
-NX - No-Execute  
 ODoH - Oblivious DNS over HTTPS  
 OIDC - OpenID Connect  
 OPSec - Operational Security  
