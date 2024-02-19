@@ -82,6 +82,7 @@ SOAR - Security Orchestration & Response
 SSE - Security Services Edge (A subset of SASE)  
 SSPM - SaaS Security Posture Management  
 TIP - Threat Intelligence Platform  
+TPRM - Third Party Risk Management  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
@@ -165,6 +166,7 @@ ECES - Certified Encryption Specialist
 FIRST - Forum of Incident Response and Security Teams  
 NICCS - National Initiative for Cybersecurity Careers and Studies  
 NICE - [NICCS Workforce Framework for Cybersecurity](https://niccs.cisa.gov/workforce-development/nice-framework)  
+OSCP - Offensive Security Certified Professional  
 SOC - Security Operations Center  
 
 ## Misc
@@ -262,7 +264,6 @@ ODoH - Oblivious DNS over HTTPS
 OIDC - OpenID Connect  
 OPSec - Operational Security  
 OSCAL - Open Security Controls Assessment Language  
-OSCP - Offensive Security Certified Professional  
 OSINT - Open Source Intelligence  
 PASTA - Process for Attack Simulation & Threat Analysis  
 PCD - Payment Card Data  
@@ -291,8 +292,6 @@ STIX - Structured Threat Information Expression
 STRIDE - Spoofing; Tampering; Repudiation; Information disclosure; Denial of service; Elevation of Privilege  
 TAXII - Trusted Automated Exchange of Intelligence Information  
 TOGAF - The Open Group Architecture Framework  
-TPM - Transport Platform Module  
-TPRM - Third Party Risk Management  
 XACML - eXtensible Access Control Markup Language  
 XXE - XML External Entity
 
