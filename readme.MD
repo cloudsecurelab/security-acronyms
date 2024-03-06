@@ -185,11 +185,11 @@ CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans A
 CIA - Confidentiality; Integrity; Availability  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
-IAM - Identity Access Management  
+IAM - Identity & Access Management  
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
 MALOPS - Malicious Operations  
-MTTR - Mean Time to Resolution  
+MTTR - Mean Time to Resolve  
 PAM - Privileged Access Management  
 RBAC - Role Based Access Control  
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)  
