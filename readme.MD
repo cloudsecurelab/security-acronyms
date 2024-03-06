@@ -182,6 +182,7 @@ BIA - Business Impact Analysis
 BSIMM - Building Security In Maturity Model  
 C2 - Command & Control  
 CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans Apart  
+CIA - Confidentiality; Integrity; Availability  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
 IAM - Identity Access Management  
@@ -213,7 +214,6 @@ TPP - Third Party Payment provider
 ## Pending to be classified (Help welcome)  
 
 CAPP - Controlled Access Protection Profile  
-CIA - Confidentiality; Integrity; Availability  
 CISSP - Certified Information Systems Security Professional (ISC2)  
 CMF - Collection Management Framework  
 CSA - (1) Cloud Security Alliance (2) Continuous Security Assessment  
