@@ -203,7 +203,7 @@ TTP - Tactics, Techniques, and Procedures
 UAC - User Access Control   
 VAP - Very Attacked Person  
 VPN - Virtual Private Network  
-YARA - Yet Another Ridiculous Acronym - [Rule-based language](https://en.wikipedia.org/wiki/YARA)  
+YARA - Yet Another Ridiculous Acronym - Rule-based tool for malware analysis [Link](https://en.wikipedia.org/wiki/YARA)  
 
 ## Terms that are not specific to security but are useful
 CC - Common Criteria  
