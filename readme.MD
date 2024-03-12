@@ -206,7 +206,6 @@ VPN - Virtual Private Network
 YARA - Yet Another Ridiculous Acronym - Rule-based tool for malware analysis [Link](https://en.wikipedia.org/wiki/YARA)  
 
 ## Terms that are not specific to security but are useful
-CC - Common Criteria  
 CCM - Cloud Controls Matrix  
 NMS - Network Management System   
 NRT - Near Real Time  
