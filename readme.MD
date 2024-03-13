@@ -204,6 +204,7 @@ UAC - User Access Control
 VAP - Very Attacked Person  
 VPN - Virtual Private Network  
 YARA - Yet Another Ridiculous Acronym - Rule-based tool for malware analysis [Link](https://en.wikipedia.org/wiki/YARA)  
+YARA-L - YARA for logs ([Chronicle](https://cloud.google.com/chronicle/docs/detection/yara-l-2-0-overview))  
 
 ## Useful terms that are not specific to security
 CCM - Cloud Controls Matrix  
