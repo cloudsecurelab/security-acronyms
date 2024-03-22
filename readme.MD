@@ -86,7 +86,6 @@ TIP - Threat Intelligence Platform
 TPRM - Third Party Risk Management  
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
-VSPM - Vendor Security Posture Management
 WAF - Web Application Firewall  
 XDR - eXtended Detection and Response  
 
