@@ -77,7 +77,7 @@ RASP - Runtime Application Self-Protection
 SASE - Secure Access Service Edge  
 SAST - Static Application Security Testing  
 SCA - Software Composition Analysis  
-SCAP - Security Content Automation Protocol  
+SCAP - Security Content Automation Protocols  
 SIEM - Security Incident & Event Management  
 SOAR - Security Orchestration & Response  
 SSE - Security Services Edge (A subset of SASE)  
