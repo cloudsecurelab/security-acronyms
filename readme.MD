@@ -71,6 +71,7 @@ ITDR - Identity Threat Detection & Response
 MDFT - Mobile Device Forensic Tool  
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
+NGES - Next Generation Endpoint Security  
 NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
@@ -261,7 +262,6 @@ LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)
 NAC - Network Access Control / also NACL (Network Access Control List)    
 NDB - Notifiable Data Breache(s)  
 NGCI - Next Generation Cyber Infrastructure  
-NGES - Next Generation Endpoint Security  
 NGFW - Next Generation Firewall  
 ODoH - Oblivious DNS over HTTPS  
 OIDC - OpenID Connect  
