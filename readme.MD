@@ -89,6 +89,7 @@ UBA / UEBA - User and entity behavior analytics
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
 XDR - eXtended Detection and Response  
+ZTNA - Zero Trust Network Access
 
 ## Security & Compliance frameworks & work groups
 
