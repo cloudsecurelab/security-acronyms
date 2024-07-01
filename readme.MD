@@ -186,6 +186,7 @@ CAPTCHA - Completely Automated Public Turing Test to Tell Computers And Humans A
 CIA - Confidentiality; Integrity; Availability  
 CISA - Cybersecurity and Infrastructure Security Agency | Certified Information Systems Auditor  
 CoA - Course of Action  
+CTA - Cyber Threat Intelligence
 IAM - Identity & Access Management  
 IOA - Indicators of Attack  
 IOC - Indicators of Compromise  
