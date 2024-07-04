@@ -72,6 +72,7 @@ MDFT - Mobile Device Forensic Tool
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
 NGES - Next Generation Endpoint Security  
+SGSWG - Next Generation Secure Web Gateway  
 NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
@@ -83,6 +84,7 @@ SIEM - Security Incident & Event Management
 SOAR - Security Orchestration & Response  
 SSE - Security Services Edge (A subset of SASE)  
 SSPM - SaaS Security Posture Management  
+SWG - Secure Web Gateway (https://www.netskope.com/security-defined/next-gen-secure-web-gateway)[Link]  
 TIP - Threat Intelligence Platform  
 TPRM - Third Party Risk Management  
 UBA / UEBA - User and entity behavior analytics  
