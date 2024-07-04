@@ -84,7 +84,7 @@ SIEM - Security Incident & Event Management
 SOAR - Security Orchestration & Response  
 SSE - Security Services Edge (A subset of SASE)  
 SSPM - SaaS Security Posture Management  
-SWG - Secure Web Gateway (https://www.netskope.com/security-defined/next-gen-secure-web-gateway)[Link]  
+SWG - Secure Web Gateway [link](https://www.netskope.com/security-defined/next-gen-secure-web-gateway)  
 TIP - Threat Intelligence Platform  
 TPRM - Third Party Risk Management  
 UBA / UEBA - User and entity behavior analytics  
