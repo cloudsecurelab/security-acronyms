@@ -72,7 +72,7 @@ MDFT - Mobile Device Forensic Tool
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
 NGES - Next Generation Endpoint Security  
-SGSWG - Next Generation Secure Web Gateway  
+NGSWG - Next Generation Secure Web Gateway  
 NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
 RASP - Runtime Application Self-Protection  
