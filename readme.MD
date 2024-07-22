@@ -68,6 +68,7 @@ IDS - Intrusion Detection System
 IDTR - Identity Detection & Response  
 IPS - Intrusion Protection System  
 ITDR - Identity Threat Detection & Response  
+MDR - Managed Detection and Response  
 MDFT - Mobile Device Forensic Tool  
 MSSP - Managed Security Services Provider  
 NDR - Network Detection & Response  
