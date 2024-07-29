@@ -66,6 +66,7 @@ HIPS - Host Intrusion Prevention System
 IAST - Interactive Application Security Testing  
 IDS - Intrusion Detection System  
 IDTR - Identity Detection & Response  
+IGA - Identity Governance and Administration  
 IPS - Intrusion Protection System  
 ISPM - Identity Security Posture Management  
 ITDR - Identity Threat Detection & Response  
