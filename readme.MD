@@ -67,6 +67,7 @@ IAST - Interactive Application Security Testing
 IDS - Intrusion Detection System  
 IDTR - Identity Detection & Response  
 IPS - Intrusion Protection System  
+ISPM - Identity Security Posture Management  
 ITDR - Identity Threat Detection & Response  
 MDR - Managed Detection and Response  
 MDFT - Mobile Device Forensic Tool  
@@ -215,9 +216,10 @@ YARA-L - YARA for logs ([Chronicle](https://cloud.google.com/chronicle/docs/dete
 
 ## Useful terms that are not specific to security
 CCM - Cloud Controls Matrix  
+NHI - Non Human Identity  
 NMS - Network Management System   
 NRT - Near Real Time  
-TPP - Third Party Payment provider
+TPP - Third Party Payment provider  
 
 ## Pending to be classified (Help welcome)  
 
