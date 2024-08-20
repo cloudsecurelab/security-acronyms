@@ -223,6 +223,7 @@ NRT - Near Real Time
 TPP - Third Party Payment provider  
 
 ## Pending to be classified (Help welcome)  
+_Community help will be welcome_
 
 CAPP - Controlled Access Protection Profile  
 CISSP - Certified Information Systems Security Professional (ISC2)  
