@@ -244,6 +244,7 @@ EASM - Externam Attack Surface Management
 EICAR - European Institute for Computer Antivirus Research  
 EPP - Endpoint Protection Platform  
 FAIR - Factor Analysis of Information Risk  
+FAM - File Access Monitoring  
 FiDO - Fast IDentity Online  
 FIM - File Integrity Monitoring  
 FPC - Full Packet Capture  
