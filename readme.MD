@@ -78,6 +78,7 @@ NGES - Next Generation Endpoint Security
 NGSWG - Next Generation Secure Web Gateway  
 NIDS - Network Intrustion Detection System  
 NTA - Network Traffic Analysis  
+OTSPM - Operational Technology Security Posture Management [link[(https://safetybits.io/blog/what-is-otspm/)  
 RASP - Runtime Application Self-Protection  
 SASE - Secure Access Service Edge  
 SAST - Static Application Security Testing  
