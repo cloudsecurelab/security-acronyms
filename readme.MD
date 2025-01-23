@@ -169,6 +169,7 @@ CDC - Cyber Defense Center
 CERT - Computer Emergency Response Team  
 CISO - Chief Information Security Officer  
 CISSP - Certified Information Systems Security Professional  
+COC - Cybersecurity Operations Center  
 CPP - Certified Protection Professional  
 CSO - Chief Security Officer (role)  
 ECES - Certified Encryption Specialist  
@@ -177,6 +178,7 @@ NICCS - National Initiative for Cybersecurity Careers and Studies
 NICE - [NICCS Workforce Framework for Cybersecurity](https://niccs.cisa.gov/workforce-development/nice-framework)  
 OSCP - Offensive Security Certified Professional  
 SOC - Security Operations Center  
+SecOps - Organizational term. Collaboration between security and operations teams by sharing security responsibilities  
 
 ## Misc
 
