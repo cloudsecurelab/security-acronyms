@@ -39,11 +39,13 @@ XSS - Cross Site Scripting
 ## Protection approaches
 _Security strategies, solutions, and patterns_
 
+ADR - Application Detection and Response  
 AMSI - Anti-Malware Scan Interface  
 ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)  
 ASPM - Application Security Posture Management  
 AST - Application Security Testing [Details](https://www.imperva.com/learn/application-security/application-security-testing)  
 AV - Anti-Virus  
+CADR - Cloud Application Detection and Response  
 CAASM - Cyber Asset Attack Surface Management (inventory management)  
 CASB - Cloud Access Security Broker  
 CDR - Cloud Detection and Response  
