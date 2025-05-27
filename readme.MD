@@ -40,6 +40,7 @@ XSS - Cross Site Scripting
 _Security strategies, solutions, and patterns_
 
 ADR - Application Detection and Response  
+AIDA - Artificial Intelligence Defense Agent [Link](https://www.knowbe4.com/products/aida#:~:text=Your%20organization%20may%20struggle%20to,approach%20to%20human%20risk%20management.)  
 AMSI - Anti-Malware Scan Interface  
 ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)  
 ASPM - Application Security Posture Management  
