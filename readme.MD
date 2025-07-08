@@ -98,6 +98,7 @@ TPRM - Third Party Risk Management
 UBA / UEBA - User and entity behavior analytics  
 VM - Vulnerability Management (also Virtual Machine outside of infosec)  
 WAF - Web Application Firewall  
+WAAP - Web Application and API Protection [link](https://www.airlock.com/en/secure-access-hub/components/gateway)
 XDR - eXtended Detection and Response  
 ZTNA - Zero Trust Network Access
 
