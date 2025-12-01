@@ -216,6 +216,7 @@ SRA - Security Response Automation
 SSS - Stack Smashing Protector (compilers)
 SWOT - Strengths, Weaknesses, Opportunities, and Threats (SWOT Analysis)  
 TI - Threat Intelligence   
+TOCTOU - Time-of-check Time-of-use (Type of bug that can represent a vulnerability)
 TTP - Tactics, Techniques, and Procedures  
 UAC - User Access Control   
 VAP - Very Attacked Person  
