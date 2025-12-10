@@ -42,6 +42,7 @@ _Security strategies, solutions, and patterns_
 ADR - Application Detection and Response  
 AIDA - Artificial Intelligence Defense Agent [Link](https://www.knowbe4.com/products/aida#:~:text=Your%20organization%20may%20struggle%20to,approach%20to%20human%20risk%20management.)  
 AMSI - Anti-Malware Scan Interface  
+ASM - Attack Surface Management  
 ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)  
 ASPM - Application Security Posture Management  
 AST - Application Security Testing [Details](https://www.imperva.com/learn/application-security/application-security-testing)  
