@@ -16,9 +16,10 @@ MD5 - Message-digest Algorithm
 RSA - Rivest–Shamir–Adleman open [cryptosystem](https://en.wikipedia.org/wiki/RSA_(cryptosystem))  
 SHA - Secure Haching Algorithm  
 
-## Attacks, Vulnerabilities, and Threats
+## Attack patterns, Vulnerabilities, and Threats
 _Malicious strategies from hackers or red-teams_
 
+ACE - Arbitrary Code Execution  
 CSRF - Cross Site Request Forgery  
 DC - Differential cryptanalytics  
 LC - Linear cryptanalytics  
@@ -37,7 +38,7 @@ XFS - Cross Frame Scripting
 XSS - Cross Site Scripting  
 
 ## Protection approaches
-_Security strategies, solutions, and patterns_
+_Security strategies, solutions, and protection patterns_
 
 ADR - Application Detection and Response  
 AIDA - Artificial Intelligence Defense Agent [Link](https://www.knowbe4.com/products/aida#:~:text=Your%20organization%20may%20struggle%20to,approach%20to%20human%20risk%20management.)  
