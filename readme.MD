@@ -20,12 +20,14 @@ SHA - Secure Haching Algorithm
 _Malicious strategies from hackers or red-teams_
 
 ACE - Arbitrary Code Execution  
+AFR - Arbitrary File Read  
 CSRF - Cross Site Request Forgery  
 DC - Differential cryptanalytics  
 LC - Linear cryptanalytics  
 DA - Davies Attack  
 DoS - Denial of Service  
 DDoS - Distributed Denial of Service  
+LFI - Local File Inclusion  
 Malware - Malicious Software  
 MITM - Man in the middle (also Person in the middle)  
 RaaS - Ransomware as a Service  
@@ -277,7 +279,6 @@ ISMS - Information Security Management System
 ISS - Information System Security  
 KCM - Kill Chain Model  
 LANGSEC - Language Security  
-LFI - Local File Inclusion  
 LOLBin - Living off the Land Binary (also LOLScripts, LOLBAS)  
 NAC - Network Access Control / also NACL (Network Access Control List)    
 NDB - Notifiable Data Breache(s)  
