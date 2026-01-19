@@ -213,6 +213,8 @@ MALOPS - Malicious Operations
 MTTR - Mean Time to Resolve  
 PAM - Privileged Access Management  
 RBAC - Role Based Access Control  
+RBOM - Runtime Bill Of Materials ([Chronicle AKA SecOps](https://docs.sysdig.com/en/sysdig-secure/risk-spotlight/))  
+SBOM - Software Bil Of Materials  
 SDLC - Software Development Lifecycle (Also sometimes System Development Lifecycle)  
 SD-WAN - Software Defined Wide Area Network  
 SKU - Stock Keeping Unit (Unique identificaiton that definees an element)  
