@@ -180,6 +180,7 @@ CISO - Chief Information Security Officer
 CISSP - Certified Information Systems Security Professional  
 COC - Cybersecurity Operations Center  
 CPP - Certified Protection Professional  
+CSIRT - Computer Security Incident Response Team  
 CSO - Chief Security Officer (role)  
 ECES - Certified Encryption Specialist  
 FIRST - Forum of Incident Response and Security Teams  
