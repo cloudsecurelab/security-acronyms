@@ -43,7 +43,8 @@ XSS - Cross Site Scripting
 _Security strategies, solutions, and protection patterns_
 
 ADR - Application Detection and Response  
-AIDA - Artificial Intelligence Defense Agent [Link](https://www.knowbe4.com/products/aida#:~:text=Your%20organization%20may%20struggle%20to,approach%20to%20human%20risk%20management.)  
+AIDA - Artificial Intelligence Defense Agent [Link](https://www.knowbe4.com/products/aida#:~:text=Your%20organization%20may%20struggle%20to,approach%20to%20human%20risk%20management.)   
+AIPP (incubating*) - Artificial Intelligence Platform Protection [Link](https://www.sysdig.com/blog/ai-infrastructure-security-why-it-deserves-its-own-category)  
 AMSI - Anti-Malware Scan Interface  
 ASM - Attack Surface Management  
 ASO - Autonomic Security Operations [Doc](https://services.google.com/fh/files/misc/googlecloud_autonomicsecurityoperations_soc10x.pdf)  
@@ -321,6 +322,10 @@ TAXII - Trusted Automated Exchange of Intelligence Information
 TOGAF - The Open Group Architecture Framework  
 XACML - eXtensible Access Control Markup Language  
 XXE - XML External Entity
+
+# Notes
+
+\* Incubating : The term is not yet standardized
 
 # Resources
 
